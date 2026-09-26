@@ -1,0 +1,32 @@
+{
+  "id":"jp6-homophone","grade":6,"subject":"国語","area":"語彙","unit":"同じ音の漢字","summary":"文に合う同音異義語を選びます。","objectives":["文脈に合う同音異義語を選べる"],
+  "exercise":{"type":"choice","kind":"homophone","prompt":"漢字をえらぼう。","items":[
+    {"prompt":"質問に（かいとう）する。","answer":"回答","distractors":["解答","怪盗"]},
+    {"prompt":"テストの（かいとう）を書く。","answer":"解答","distractors":["回答","怪盗"]},
+    {"prompt":"物語に出てくる（かいとう）。","answer":"怪盗","distractors":["回答","解答"]},
+    {"prompt":"薬の（こうか）が現れる。","answer":"効果","distractors":["硬貨","校歌"]},
+    {"prompt":"百円の（こうか）を入れる。","answer":"硬貨","distractors":["効果","校歌"]},
+    {"prompt":"入学式で（こうか）を歌う。","answer":"校歌","distractors":["効果","硬貨"]},
+    {"prompt":"物語の（こうせい）を考える。","answer":"構成","distractors":["公正","更生"]},
+    {"prompt":"誰にでも（こうせい）に接する。","answer":"公正","distractors":["構成","更生"]},
+    {"prompt":"社会に復帰して（こうせい）する。","answer":"更生","distractors":["構成","公正"]},
+    {"prompt":"必要な（しりょう）を集める。","answer":"資料","distractors":["史料","飼料"]},
+    {"prompt":"歴史を調べる（しりょう）。","answer":"史料","distractors":["資料","飼料"]},
+    {"prompt":"牛の（しりょう）を用意する。","answer":"飼料","distractors":["資料","史料"]},
+    {"prompt":"木を植える（いし）をもつ。","answer":"意志","distractors":["意思","遺志"]},
+    {"prompt":"自分の（いし）を伝える。","answer":"意思","distractors":["意志","遺志"]},
+    {"prompt":"父の（いし）を受け継ぐ。","answer":"遺志","distractors":["意志","意思"]},
+    {"prompt":"仕事を（かんり）する。","answer":"管理","distractors":["監理","官吏"]},
+    {"prompt":"工事を（かんり）する。","answer":"監理","distractors":["管理","官吏"]},
+    {"prompt":"（かんり）は明治時代までの役人の呼び方です。","answer":"官吏","distractors":["管理","監理"]},
+    {"prompt":"地域の（かいかん）を利用する。","answer":"会館","distractors":["開館","快感"]},
+    {"prompt":"美術館の（かいかん）を祝う。","answer":"開館","distractors":["会館","快感"]},
+    {"prompt":"走った後の（かいかん）。","answer":"快感","distractors":["会館","開館"]},
+    {"prompt":"動きを（せいし）する。","answer":"静止","distractors":["製紙","生死"]},
+    {"prompt":"紙を作る（せいし）工場。","answer":"製紙","distractors":["静止","生死"]},
+    {"prompt":"（せいし）について考える。","answer":"生死","distractors":["静止","製紙"]},
+    {"prompt":"美術作品を（かんしょう）する。","answer":"鑑賞","distractors":["干渉","感傷"]},
+    {"prompt":"他人の仕事に（かんしょう）しない。","answer":"干渉","distractors":["鑑賞","感傷"]},
+    {"prompt":"別れの歌に（かんしょう）した。","answer":"感傷","distractors":["鑑賞","干渉"]}
+  ]}
+}

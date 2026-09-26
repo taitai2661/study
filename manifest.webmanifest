@@ -1,0 +1,12 @@
+{
+  "name": "まなびば",
+  "short_name": "まなびば",
+  "description": "学習指導要領を基準にした、小学生〜高校生向けプリント生成・Web演習",
+  "theme_color": "#173f35",
+  "background_color": "#f7f4ea",
+  "display": "standalone",
+  "start_url": "./",
+  "scope": "./",
+  "lang": "ja",
+  "icons": [{ "src": "pwa-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

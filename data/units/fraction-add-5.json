@@ -1,0 +1,1 @@
+{"id":"fraction-add-5","grade":5,"subject":"算数","area":"A 数と計算","unit":"分数のたし算とひき算","summary":"通分して分数を計算します。","objectives":["異分母分数の加減ができる"],"exercise":{"type":"number","kind":"fractionAddUnlike","prompt":"答えは約分して書こう。"}}

@@ -1,0 +1,1 @@
+{"id":"numbers-100-million","grade":4,"subject":"算数","area":"A 数と計算","unit":"大きな数","summary":"億や兆までの数を位取りで表します。","objectives":["大きな数の位取りが分かる"],"exercise":{"type":"number","kind":"largeNumber","prompt":"位の数字を答えよう。"}}

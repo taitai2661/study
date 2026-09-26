@@ -1,0 +1,1 @@
+{"id":"make-10","grade":1,"subject":"算数","area":"A 数と計算","unit":"10のまとまり","summary":"10を一つのまとまりとして捉えます。","objectives":["10の補数が分かる","数を分けられる"],"exercise":{"type":"number","kind":"complement10","min":1,"max":9,"prompt":"10にするには、あといくつ？"}}

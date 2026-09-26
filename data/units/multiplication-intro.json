@@ -1,0 +1,1 @@
+{"id":"multiplication-intro","grade":2,"subject":"算数","area":"A 数と計算","unit":"かけ算","summary":"同じ数ずつある場面をかけ算で表します。","objectives":["かけ算の意味が分かる","九九を使える"],"exercise":{"type":"number","kind":"multiply","min":1,"max":9,"prompt":"計算しよう。"}}

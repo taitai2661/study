@@ -1,0 +1,1 @@
+{"id":"jh3-sampling","grade":9,"subject":"数学","area":"D データの活用","unit":"標本調査","summary":"標本から母集団の傾向を推測します。","objectives":["標本調査から全体を推定できる"],"exercise":{"type":"number","kind":"sampling","prompt":"標本から全体を推定しなさい。"}}

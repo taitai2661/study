@@ -1,0 +1,1 @@
+{"id":"addition-2digit","grade":2,"subject":"算数","area":"A 数と計算","unit":"2けたのたし算","summary":"くり上がりを使って、2けたのたし算をします。","objectives":["筆算の意味を理解する","2けたのたし算ができる"],"exercise":{"type":"number","kind":"add2","prompt":"計算しよう。"}}

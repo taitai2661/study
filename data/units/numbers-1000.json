@@ -1,0 +1,1 @@
+{"id":"numbers-1000","grade":2,"subject":"算数","area":"A 数と計算","unit":"1000までの数","summary":"百のまとまりに着目して、1000までの数を読み書きします。","objectives":["1000までの数を読める","位取りを理解する"],"exercise":{"type":"number","kind":"placeValue","min":100,"max":999,"prompt":"□に入る数は？"}}

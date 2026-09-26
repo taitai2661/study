@@ -1,0 +1,32 @@
+{
+  "id":"jp5-homophone","grade":5,"subject":"国語","area":"語彙","unit":"同じ音の漢字","summary":"文に合う同音異義語を選びます。","objectives":["文脈に合う同音異義語を選べる"],
+  "exercise":{"type":"choice","kind":"homophone","prompt":"漢字をえらぼう。","items":[
+    {"prompt":"努力の（せいか）が出る。","answer":"成果","distractors":["青果","製菓"]},
+    {"prompt":"店で新鮮な（せいか）を買う。","answer":"青果","distractors":["成果","製菓"]},
+    {"prompt":"お菓子を作る（せいか）会社。","answer":"製菓","distractors":["成果","青果"]},
+    {"prompt":"法律を（かいせい）する。","answer":"改正","distractors":["快晴","海星"]},
+    {"prompt":"明日は（かいせい）の予報だ。","answer":"快晴","distractors":["改正","海星"]},
+    {"prompt":"海にすむ（かいせい）を観察する。","answer":"海星","distractors":["改正","快晴"]},
+    {"prompt":"選手を（こうたい）させる。","answer":"交代","distractors":["後退","抗体"]},
+    {"prompt":"一歩（こうたい）する。","answer":"後退","distractors":["交代","抗体"]},
+    {"prompt":"ウイルスに対する（こうたい）をつくる。","answer":"抗体","distractors":["交代","後退"]},
+    {"prompt":"相手と（こうしょう）をする。","answer":"交渉","distractors":["高尚","工匠"]},
+    {"prompt":"（こうしょう）な趣味をもつ。","answer":"高尚","distractors":["交渉","工匠"]},
+    {"prompt":"家具を作る（こうしょう）の技が光る。","answer":"工匠","distractors":["交渉","高尚"]},
+    {"prompt":"品物の（ほしょう）を受ける。","answer":"保証","distractors":["補償","歩哨"]},
+    {"prompt":"損害を（ほしょう）する。","answer":"補償","distractors":["保証","歩哨"]},
+    {"prompt":"夜の見張りの（ほしょう）。","answer":"歩哨","distractors":["保証","補償"]},
+    {"prompt":"家族が暮らす（かてい）。","answer":"家庭","distractors":["仮定","過程"]},
+    {"prompt":"もしも、と（かてい）して考える。","answer":"仮定","distractors":["家庭","過程"]},
+    {"prompt":"成長する（かてい）を調べる。","answer":"過程","distractors":["家庭","仮定"]},
+    {"prompt":"調べる（たいしょう）を決める。","answer":"対象","distractors":["対照","対称"]},
+    {"prompt":"二つを（たいしょう）して比べる。","answer":"対照","distractors":["対象","対称"]},
+    {"prompt":"左右（たいしょう）な形。","answer":"対称","distractors":["対象","対照"]},
+    {"prompt":"環境に（かんしん）をもつ。","answer":"関心","distractors":["感心","寒心"]},
+    {"prompt":"立派な行いに（かんしん）する。","answer":"感心","distractors":["関心","寒心"]},
+    {"prompt":"仲間の不正を見て（かんしん）する。","answer":"寒心","distractors":["関心","感心"]},
+    {"prompt":"計画をよく（けんとう）する。","answer":"検討","distractors":["見当","健闘"]},
+    {"prompt":"（けんとう）がつかない。","answer":"見当","distractors":["検討","健闘"]},
+    {"prompt":"選手の（けんとう）をたたえる。","answer":"健闘","distractors":["検討","見当"]}
+  ]}
+}

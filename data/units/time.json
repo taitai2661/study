@@ -1,0 +1,1 @@
+{"id":"time","grade":2,"subject":"算数","area":"C 測定","unit":"時こくと時間","summary":"時刻と時間の違いを考え、時間を求めます。","objectives":["時刻を読める","時間を求められる"],"exercise":{"type":"number","kind":"timeElapsed","prompt":"何分後かな？"}}

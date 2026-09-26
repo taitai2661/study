@@ -1,0 +1,1 @@
+{"id":"triangle-area-5","grade":5,"subject":"算数","area":"B 図形","unit":"三角形と四角形の面積","summary":"底辺と高さを使って面積を求めます。","objectives":["三角形の面積を求められる"],"exercise":{"type":"number","kind":"areaTriangle","prompt":"面積を求めよう。"}}

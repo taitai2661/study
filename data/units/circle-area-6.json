@@ -1,0 +1,1 @@
+{"id":"circle-area-6","grade":6,"subject":"算数","area":"B 図形","unit":"円の面積","summary":"半径を使って円の面積を求めます。","objectives":["円の面積を求められる"],"exercise":{"type":"number","kind":"circleArea","prompt":"面積を求めよう。"}}

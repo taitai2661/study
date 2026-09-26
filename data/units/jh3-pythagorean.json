@@ -1,0 +1,1 @@
+{"id":"jh3-pythagorean","grade":9,"subject":"数学","area":"B 図形","unit":"三平方の定理","summary":"直角三角形の辺の関係を使います。","objectives":["三平方の定理で辺を求められる"],"exercise":{"type":"number","kind":"pythagorean","prompt":"三平方の定理を使って答えなさい。"}}

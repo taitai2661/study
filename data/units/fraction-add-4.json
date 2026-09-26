@@ -1,0 +1,1 @@
+{"id":"fraction-add-4","grade":4,"subject":"算数","area":"A 数と計算","unit":"分数のたし算とひき算","summary":"同じ分母の分数を計算します。","objectives":["同分母分数の加減ができる"],"exercise":{"type":"number","kind":"fractionAdd","prompt":"答えは約分して書こう。"}}

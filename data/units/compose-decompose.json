@@ -1,0 +1,1 @@
+{"id":"compose-decompose","grade":1,"subject":"算数","area":"A 数と計算","unit":"数の分け方","summary":"数をいくつといくつに分けたり、合わせたりします。","objectives":["数の合成と分解ができる"],"exercise":{"type":"number","kind":"split","min":2,"max":10,"prompt":"□に入る数は？"}}

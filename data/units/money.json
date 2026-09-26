@@ -1,0 +1,1 @@
+{"id":"money","grade":2,"subject":"算数","area":"C 測定","unit":"お金","summary":"硬貨や紙幣を使い、金額を表したり計算したりします。","objectives":["金額を数えられる"],"exercise":{"type":"number","kind":"money","prompt":"全部でいくら？"}}

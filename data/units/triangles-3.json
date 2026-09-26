@@ -1,0 +1,1 @@
+{"id":"triangles-3","grade":3,"subject":"算数","area":"B 図形","unit":"三角形","summary":"二等辺三角形や正三角形の特徴を調べます。","objectives":["三角形の特徴を理解する"],"exercise":{"type":"choice","kind":"triangleType","prompt":"正三角形をえらぼう。"}}

@@ -1,0 +1,1 @@
+{"id":"jh2-simultaneous-equations","grade":8,"subject":"数学","area":"A 数と式","unit":"連立方程式","summary":"二つの一次方程式を組み合わせて解きます。","objectives":["連立方程式を解ける"],"exercise":{"type":"number","kind":"simultaneousEquations","prompt":"連立方程式を解きなさい。"}}

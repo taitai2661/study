@@ -1,0 +1,1 @@
+{"id":"compare-quantities","grade":1,"subject":"算数","area":"C 測定","unit":"大きさくらべ","summary":"長さ・広さ・かさを直接比べたり、任意の単位で比べたりします。","objectives":["量の大小を比べられる"],"exercise":{"type":"choice","kind":"quantity","min":2,"max":9,"prompt":"長い方をえらぼう。"}}

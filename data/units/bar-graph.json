@@ -1,0 +1,1 @@
+{"id":"bar-graph","grade":3,"subject":"算数","area":"D データの活用","unit":"ぼうグラフ","summary":"棒グラフに表して、数量の違いを読み取ります。","objectives":["棒グラフを読める","資料を整理できる"],"exercise":{"type":"choice","kind":"pictograph","min":2,"max":9,"prompt":"いちばん多いものをえらぼう。"}}

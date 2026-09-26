@@ -1,0 +1,1 @@
+{"id":"solids-4","grade":4,"subject":"算数","area":"B 図形","unit":"立体","summary":"直方体や立方体の構成を考えます。","objectives":["立体の特徴が分かる"],"exercise":{"type":"number","kind":"volumeBox","prompt":"体積を求めよう。"}}

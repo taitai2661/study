@@ -1,0 +1,1 @@
+{"id":"addition-to-10","grade":1,"subject":"算数","area":"A 数と計算","unit":"たし算（10まで）","summary":"合わせる場面をたし算の式に表します。","objectives":["10までのたし算ができる"],"exercise":{"type":"number","kind":"add","min":1,"max":9,"answerMax":10,"prompt":"計算しよう。"}}

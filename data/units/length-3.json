@@ -1,0 +1,1 @@
+{"id":"length-3","grade":3,"subject":"算数","area":"C 測定","unit":"長さ","summary":"kmなどの単位を使い、長さを表します。","objectives":["長さの単位を換算できる"],"exercise":{"type":"number","kind":"lengthConvert3","prompt":"□に入る数は？"}}

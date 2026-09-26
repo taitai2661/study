@@ -1,0 +1,1 @@
+{"id":"multiplication-2digit","grade":3,"subject":"算数","area":"A 数と計算","unit":"かけ算の筆算","summary":"2けたの数に1けたの数をかける筆算を学びます。","objectives":["かけ算の筆算ができる"],"exercise":{"type":"number","kind":"multiply2","prompt":"計算しよう。"}}

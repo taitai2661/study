@@ -1,0 +1,1 @@
+{"id":"weight","grade":3,"subject":"算数","area":"C 測定","unit":"重さ","summary":"g、kgを使って重さを表します。","objectives":["重さの単位を使える"],"exercise":{"type":"number","kind":"weightConvert","prompt":"□に入る数は？"}}

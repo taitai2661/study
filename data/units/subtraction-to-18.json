@@ -1,0 +1,1 @@
+{"id":"subtraction-to-18","grade":1,"subject":"算数","area":"A 数と計算","unit":"くり下がりのあるひき算","summary":"10のまとまりを使って、くり下がりのあるひき算をします。","objectives":["くり下がりのあるひき算ができる"],"exercise":{"type":"number","kind":"subtractBorrow","min":2,"max":18,"prompt":"計算しよう。"}}

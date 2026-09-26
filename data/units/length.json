@@ -1,0 +1,1 @@
+{"id":"length","grade":2,"subject":"算数","area":"C 測定","unit":"長さ","summary":"cm、mm、mを使って長さを表します。","objectives":["長さの単位を使える","単位を換算できる"],"exercise":{"type":"number","kind":"lengthConvert","prompt":"□に入る数は？"}}

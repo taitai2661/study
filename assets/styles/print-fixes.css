@@ -1,0 +1,254 @@
+/* A4 worksheet sizing and overflow protection.
+   Keep the screen preview and printed sheet on the same layout model. */
+.print-builder .worksheet{
+  --sheet-pad-top:17mm;
+  --sheet-pad-inline:18mm;
+  --sheet-pad-bottom:13mm;
+  --header-gap:8mm;
+  --instruction-gap:9mm;
+  --row-gap:10mm;
+  --column-gap:16mm;
+  --problem-size:20px;
+  --problem-line:1.35;
+  display:flex;
+  width:210mm;
+  height:297mm;
+  min-width:0;
+  min-height:0;
+  flex-direction:column;
+  padding:var(--sheet-pad-top) var(--sheet-pad-inline) var(--sheet-pad-bottom);
+  overflow:hidden;
+  background:#fff;
+}
+.print-builder .worksheet-header{display:grid;min-height:18mm;grid-template-columns:minmax(210px,1fr) 54mm;align-items:center;gap:6mm;flex:0 0 auto;padding:0 0 var(--header-gap);border-bottom:2px solid #173f35}
+.print-builder .worksheet-heading{min-width:0}
+.print-builder .worksheet-meta{display:flex;min-width:0;align-items:center;flex-wrap:wrap;gap:1mm 1.5mm;font-size:10px;font-weight:800;line-height:1.2}
+.print-builder .worksheet-meta span{display:inline-block}
+.print-builder .worksheet-header h2{display:-webkit-box;max-width:100%;margin:1.5mm 0 0;overflow:hidden;font-size:24px;line-height:1.16;-webkit-box-orient:vertical;-webkit-line-clamp:2}
+.print-builder .name-field{display:grid;min-width:0;max-width:100%;grid-template-columns:max-content minmax(0,1fr);align-items:end;gap:3mm;overflow:hidden;font-size:14px;font-weight:800}
+.print-builder .name-label{display:block;min-width:0;white-space:nowrap;line-height:1.2}
+.print-builder .name-rule{display:block;width:auto;min-width:0;max-width:100%;height:8mm;border-bottom:1.5px solid #173f35}
+.print-builder .worksheet-body{display:flex;min-width:0;min-height:0;flex:1 1 auto;flex-direction:column}
+.print-builder .worksheet-instruction{display:flex;min-height:10mm;align-items:center;gap:3mm;flex:0 0 auto;margin:var(--instruction-gap) 0;padding:1.5mm 3mm;border:1px solid #9ca9a4;font-size:16px;line-height:1.35}
+.print-builder .worksheet-instruction span{flex:0 0 auto;font-size:10px;font-weight:900;letter-spacing:.08em}
+.print-builder .worksheet-instruction strong{min-width:0;font-size:16px}
+.print-builder .worksheet.style-friendly .worksheet-header{border-bottom-width:3px;border-bottom-color:#173f35}
+.print-builder .worksheet.style-friendly .worksheet-meta span{padding:.8mm 1.8mm;border:1px solid #9eb8ae;border-radius:99px;background:#e5eee8}
+.print-builder .worksheet.style-friendly .worksheet-meta span:nth-child(2){border-color:#e5b4a8;background:#f8e2da}
+.print-builder .worksheet.style-friendly .worksheet-header h2{font-family:ui-rounded,'Hiragino Maru Gothic ProN',sans-serif}
+.print-builder .worksheet.style-friendly .name-field{padding:1.5mm 2.5mm;border:1px solid #a9b7b1;border-radius:3mm;background:#fffdf7}
+.print-builder .worksheet.style-friendly .worksheet-instruction{border-color:#d3b85f;border-radius:3mm;background:#fff8d9}
+.print-builder .worksheet.style-friendly .worksheet-instruction span{padding:1mm 2mm;border-radius:99px;background:#f3c94d}
+.print-builder .worksheet.style-school .worksheet-meta{gap:0;flex-wrap:nowrap;font-size:9px;white-space:nowrap}
+.print-builder .worksheet.style-school .worksheet-meta span+span:before{content:'／';margin:0 2mm;color:#555}
+.print-builder .worksheet.style-school .worksheet-instruction{border-width:1px 0;background:#fff}
+.print-builder .worksheet.style-school .worksheet-instruction span{padding-right:3mm;border-right:2px solid #111}
+.print-builder .problem-grid{
+  display:grid;
+  min-width:0;
+  min-height:0;
+  flex:1 1 auto;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  align-content:start;
+  grid-auto-rows:max-content;
+  gap:var(--row-gap) var(--column-gap);
+  padding-left:7mm;
+  font-size:var(--problem-size);
+  line-height:var(--problem-line);
+}
+.print-builder .problem-grid.count-5{--row-gap:10mm;--problem-size:20px}
+.print-builder .problem-grid.count-10{--row-gap:5mm;--problem-size:16px}
+.print-builder .problem-grid.count-20{--row-gap:3mm;--column-gap:11mm;--problem-size:16px}
+.print-builder .problem-grid li{display:block;min-width:0;min-height:0;padding-left:2.5mm;break-inside:avoid;overflow:hidden}
+.print-builder .problem-grid li>.problem-prompt{display:inline;min-width:0;max-width:100%;font-size:max(16px,var(--problem-size));font-weight:600;line-height:1.35;overflow-wrap:anywhere;word-break:normal}
+.print-builder .problem-grid li.has-choices>.problem-prompt{display:block}
+.print-builder .answer-area{display:flex;align-items:center;gap:2mm;margin-top:1.8mm;font-size:11px;font-weight:800;line-height:1}
+.print-builder .problem-grid li .answer-label{min-width:0!important;flex:0 0 auto;color:#4c5c56;letter-spacing:.08em}
+.print-builder .standard-answer-field{display:block;width:31mm;height:9mm;border:1.2px solid #222;box-sizing:border-box}
+.print-builder .fraction-answer-field{display:grid;width:18mm;height:16mm;grid-template-rows:1fr 1px 1fr;border:1.2px solid #222;box-sizing:border-box;background:#fff}
+.print-builder .problem-grid li .fraction-answer-field span{display:block;min-width:0!important;min-height:0}
+.print-builder .fraction-answer-field b{display:block;margin:0 2.2mm;border-top:1.2px solid #222}
+.print-builder .problem-grid.count-20 .answer-area{gap:1.2mm;margin-top:.8mm;font-size:8px}
+.print-builder .problem-grid.count-20 .standard-answer-field{width:23mm;height:6.5mm}
+.print-builder .problem-grid.count-20 .fraction-answer-field{width:14mm;height:11mm}
+.print-builder .problem-grid.count-20 .fraction-answer-field b{margin-inline:1.5mm}
+.print-builder .print-choice-list{display:block;max-width:100%;margin-top:1.5mm;font-size:16px;line-height:1.35;white-space:normal;overflow-wrap:normal}
+.print-builder .print-choice{display:inline-block;min-width:0!important;white-space:nowrap}
+.print-builder .worksheet-footer{display:flex;align-items:center;justify-content:space-between;gap:4mm;flex:0 0 auto;margin-top:5mm;padding-top:3mm}
+.print-builder .worksheet-seed{overflow:hidden;color:#4c5c56;font-size:7px;font-weight:800;text-overflow:ellipsis;white-space:nowrap}
+.print-builder .kanken-trademark-note{display:block;max-width:110mm;margin-left:auto;color:#4c5c56;font-size:6px;font-weight:600;line-height:1.25;text-align:right}
+.print-builder .answer-sheet>.kanken-trademark-note{margin:4mm 0 0;font-size:7px;text-align:left}
+.worksheet-answer-qr{display:grid;grid-template-columns:20mm minmax(0,1fr);align-items:end;gap:4mm;flex:0 0 auto;margin-top:3mm;padding-top:2mm;border-top:1px solid #d2d8d4;color:#4c5c56;font-size:7px;line-height:1.35}
+.worksheet-answer-qr .answer-qr-code{width:19mm;height:19mm}
+.worksheet-answer-qr span{display:block;margin-bottom:.8mm;color:#173f35;font-size:8px;font-weight:900}
+.worksheet-answer-qr strong{display:block;overflow:hidden;color:#4c5c56;font-size:6px;font-weight:600;text-overflow:ellipsis;white-space:nowrap}
+.print-builder .count-visual{display:inline-flex;min-width:0!important;max-width:100%;align-items:center;gap:.6mm;white-space:nowrap}
+.print-builder .count-dot{width:2.2mm!important;min-width:2.2mm!important;max-width:2.2mm!important;height:2.2mm!important;min-height:2.2mm!important;max-height:2.2mm!important;flex:0 0 2.2mm!important}
+.print-builder .compare-item{width:46%;min-width:0!important;max-width:46%;gap:1mm;vertical-align:top}
+.print-builder .bar-compare{max-width:100%}
+.print-builder .bar-compare>span{max-width:100%;grid-template-columns:7mm minmax(0,1fr)}
+.print-builder .bar-compare i{max-width:100%}
+.print-overflow-warning{display:none;margin:10px 0 0;padding:10px 12px;border-radius:8px;background:#fff3cd;color:#725500;font-size:12px;font-weight:800;line-height:1.5}
+.print-overflow-warning.is-visible{display:block}
+.print-license-note{margin:10px 0 0;color:#60726c;font-size:12px;font-weight:800;line-height:1.5;text-align:center}
+.style-choice{margin-top:22px}
+.style-choice legend{margin-bottom:9px}
+.style-choice>div{display:grid;gap:7px}
+.style-choice label{display:grid;gap:2px;padding:10px 12px;border:2px solid #dedfd8;border-radius:10px;background:#fff;cursor:pointer}
+.style-choice label.selected{border-color:var(--coral);background:#fbe6df}
+.style-choice input{position:absolute;opacity:0}
+.style-choice strong{font-size:13px}
+.style-choice small{color:#687770;font-size:10px}
+.answer-options{display:grid;gap:8px;margin-top:20px}
+.answer-options legend{margin-bottom:2px;font-size:13px;font-weight:900}
+.option-toggle{display:flex;align-items:center;gap:9px;padding:10px 12px;border:1px solid #dedfd8;border-radius:10px;background:#fff;color:var(--ink);font-size:12px;font-weight:800;line-height:1.4}
+.option-toggle input{width:17px;height:17px;accent-color:var(--coral)}
+.option-toggle.is-disabled{opacity:.55}
+.continuous-print{margin-top:22px;padding:14px;border:1px solid #d7ddd6;border-radius:12px;background:#f7faf7}
+.continuous-print h3{margin:0;color:var(--ink);font-size:14px}
+.continuous-print-help{margin:5px 0 0;color:#60726c;font-size:11px;font-weight:700;line-height:1.5}
+.continuous-print .setting-field{margin-top:12px}
+.continuous-print-button{min-height:48px;margin-top:12px;background:var(--coral);box-shadow:0 5px 0 #a83b27}
+.continuous-status{min-height:1.5em;margin:9px 0 0;color:#52645d;font-size:11px;font-weight:800;line-height:1.5}
+.answer-preview{margin-top:16px;padding:14px;border:1px solid #d7ddd6;border-radius:10px;background:#fff}
+.answer-preview h3{margin:0 0 10px;font-size:14px}
+.answer-preview .answer-list{display:grid;gap:6px;margin:0;padding:0;list-style:none;font-size:12px}
+.answer-preview .answer-list li{display:grid;grid-template-columns:26px minmax(0,1fr) max-content;gap:8px;align-items:start}
+.answer-preview .answer-question{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.answer-preview .answer-question .print-choice-list{display:none}
+.answer-preview .answer-number{color:#687770;font-weight:900}
+.answer-preview strong{color:var(--coral)}
+.settings-card{max-height:calc(100vh - 48px);overflow-y:auto;overscroll-behavior:contain;scrollbar-gutter:stable}
+.print-section-heading{margin-top:26px;padding-top:20px;border-top:1px solid #dce3dd}
+.print-section-heading h3{margin:0;color:var(--ink);font-size:14px}
+.print-section-heading p{margin:5px 0 0;color:#60726c;font-size:11px;font-weight:700;line-height:1.5}
+.seed-input{margin-top:14px}
+.mobile-print-bar{display:none}
+.preview-summary{max-width:270px;margin:0;padding:8px 10px;border-radius:9px;background:#eef4ef;color:#3f5b51;font-size:11px!important;font-weight:800;line-height:1.45}
+.print-builder .worksheet-stack{display:grid;gap:18px;transform:scale(var(--preview-scale,1));transform-origin:top left}
+.print-builder .answer-sheet{display:flex;width:210mm;height:297mm;min-height:0;flex-direction:column;padding:17mm 18mm 13mm;overflow:hidden;background:#fff;box-shadow:0 7px 17px rgba(23,63,53,.17)}
+.print-builder .answer-seed{justify-self:end;text-align:right;color:#4c5c56;font-size:10px;font-weight:800;line-height:1.5}
+.print-builder .answer-seed strong{color:#111;font-size:13px}
+.print-builder .answer-sheet-body{min-height:0;flex:1 1 auto;padding:9mm 0 5mm}
+.print-builder .answer-sheet .answer-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:3mm 9mm;margin:0;padding:0;list-style:none;font-size:13px;line-height:1.35}
+.print-builder .answer-sheet .answer-list li{display:grid;grid-template-columns:8mm minmax(0,1fr) max-content;gap:2mm;align-items:start;min-width:0;padding:1.8mm 0;border-bottom:1px solid #d5d8d2}
+.print-builder .answer-sheet .answer-number{display:grid;place-items:center;width:6mm;height:6mm;border-radius:50%;background:#e5eee8;color:#173f35;font-size:10px;font-weight:900}
+.print-builder .answer-sheet .answer-question{min-width:0;overflow:hidden;color:#333;font-weight:600;text-overflow:ellipsis;white-space:nowrap}
+.print-builder .answer-sheet .answer-question .print-choice-list{display:none}
+.print-builder .answer-sheet .answer-list strong{color:#111;font-size:14px}
+.answer-sheet-footer{display:grid;align-items:end;gap:7mm;min-height:12mm;padding-top:4mm;border-top:1px solid #aaa;color:#555;font-size:8px}
+.answer-sheet-footer span{display:block;margin-bottom:1.5mm;font-weight:800}
+.answer-sheet-footer strong{display:block;overflow:hidden;color:#222;font-size:7px;font-weight:600;text-overflow:ellipsis;white-space:nowrap}
+.answer-qr-code{display:block;width:28mm;height:28mm}
+.answer-qr-fallback{align-self:center;font-size:8px;font-weight:800}
+
+/* Visual questions are deliberately smaller in dense worksheets. */
+.print-builder .problem-grid .composition i{border:0}
+.print-builder .problem-grid.count-5 .clock{width:28mm!important;min-width:28mm!important;max-width:28mm!important;height:28mm!important;min-height:28mm!important;max-height:28mm!important}
+.print-builder .problem-grid.count-5 .shape{width:22mm!important;min-width:22mm!important;max-width:22mm!important;height:22mm!important;min-height:22mm!important;max-height:22mm!important}
+.print-builder .problem-grid.count-5 .shape.さんかく{width:0!important;min-width:0!important;max-width:0!important;height:0!important;min-height:0!important;max-height:0!important;border-left-width:13mm;border-right-width:13mm;border-bottom-width:22mm}
+.print-builder .problem-grid.count-5 .composition{width:28mm!important;min-width:28mm!important;max-width:28mm!important;height:21mm!important}
+.print-builder .problem-grid.count-5 .composition.square{width:21mm!important;min-width:21mm!important;max-width:21mm!important}
+.print-builder .problem-grid.count-5 .composition i{width:28mm!important;height:21mm!important}
+.print-builder .problem-grid.count-5 .composition.square i{width:21mm!important}
+.print-builder .problem-grid.count-10 .compose-caption{margin:0 0 1mm;font-size:11px}
+.print-builder .problem-grid.count-10 .composition{width:14mm!important;min-width:14mm!important;max-width:14mm!important;height:10.5mm!important}
+.print-builder .problem-grid.count-10 .composition.square{width:10.5mm!important;min-width:10.5mm!important;max-width:10.5mm!important}
+.print-builder .problem-grid.count-10 .composition i{width:14mm!important;height:10.5mm!important}
+.print-builder .problem-grid.count-10 .composition.square i{width:10.5mm!important}
+.print-builder .problem-grid.count-10 .clock{width:15mm!important;min-width:15mm!important;max-width:15mm!important;height:15mm!important;min-height:15mm!important;max-height:15mm!important;border-width:2px}
+.print-builder .problem-grid.count-10 .clock:after{top:1px;font-size:9px}
+.print-builder .problem-grid.count-10 .clock i,.print-builder .problem-grid.count-10 .clock b{width:2px}
+.print-builder .problem-grid.count-10 .clock .hour-hand{height:5mm}
+.print-builder .problem-grid.count-10 .clock .minute-hand{height:7mm}
+.print-builder .problem-grid.count-10 .shape{width:13mm!important;min-width:13mm!important;max-width:13mm!important;height:13mm!important;min-height:13mm!important;max-height:13mm!important;border-width:2px}
+.print-builder .problem-grid.count-10 .shape.さんかく{width:0!important;min-width:0!important;max-width:0!important;height:0!important;min-height:0!important;max-height:0!important;border-left-width:7mm;border-right-width:7mm;border-bottom-width:13mm}
+.print-builder .problem-grid.count-10 .bar-compare{gap:1.5mm}
+.print-builder .problem-grid.count-10 .bar-compare i{height:4mm}
+.print-builder .problem-grid.count-10 .bar-compare small{font-size:11px}
+.print-builder .problem-grid.count-20 .compose-caption{margin:0;font-size:7px}
+.print-builder .problem-grid.count-20 .print-choice-list{margin-top:.7mm}
+.print-builder .problem-grid.count-20 .composition{width:9mm;height:7mm}
+.print-builder .problem-grid.count-20 .composition.square{width:7mm}
+.print-builder .problem-grid.count-20 .composition i{width:9mm;height:7mm}
+.print-builder .problem-grid.count-20 .composition.square i{width:7mm}
+.print-builder .problem-grid.count-20 .clock{width:9mm;height:9mm;border-width:1px}
+.print-builder .problem-grid.count-20 .clock:after{top:0;font-size:5px}
+.print-builder .problem-grid.count-20 .clock i,.print-builder .problem-grid.count-20 .clock b{width:1px}
+.print-builder .problem-grid.count-20 .clock .hour-hand{height:2.5mm}
+.print-builder .problem-grid.count-20 .clock .minute-hand{height:3.5mm}
+.print-builder .problem-grid.count-20 .shape{width:7mm;height:7mm;border-width:1px}
+.print-builder .problem-grid.count-20 .shape.さんかく{width:0;height:0;border-left-width:4mm;border-right-width:4mm;border-bottom-width:7mm}
+.print-builder .problem-grid.count-20 .bar-compare{gap:1px}
+.print-builder .problem-grid.count-20 .bar-compare i{height:2mm}
+.print-builder .problem-grid.count-20 .compare-item{min-width:0}
+.print-builder .problem-grid.count-20 .count-visual{gap:.35mm}
+.print-builder .problem-grid.count-20 .count-dot{width:1.5mm!important;min-width:1.5mm!important;max-width:1.5mm!important;height:1.5mm!important;min-height:1.5mm!important;max-height:1.5mm!important;flex-basis:1.5mm!important}
+
+/* Applied only when measured content does not fit the regular density. */
+.print-builder .worksheet.fit-compact{
+  --header-gap:6mm;
+  --instruction-gap:6mm;
+  --row-gap:2mm;
+  --column-gap:9mm;
+}
+.print-builder .worksheet.fit-compact .worksheet-header h2{font-size:22px}
+.print-builder .worksheet.fit-compact .print-choice-list{margin-top:.5mm}
+.print-builder .worksheet.fit-tight{
+  --sheet-pad-top:14mm;
+  --sheet-pad-inline:15mm;
+  --sheet-pad-bottom:10mm;
+  --header-gap:5mm;
+  --instruction-gap:4mm;
+  --row-gap:1.2mm;
+  --column-gap:7mm;
+}
+.print-builder .worksheet.fit-tight .worksheet-header h2{font-size:20px}
+.print-builder .worksheet.fit-tight .worksheet-instruction{min-height:11mm;padding-block:1.5mm}
+.print-builder .worksheet.fit-tight .worksheet-footer{margin-top:3mm;padding-top:2mm;font-size:8px}
+.print-button:disabled{cursor:not-allowed;opacity:.45;box-shadow:none}
+
+.print-builder .worksheet-frame{position:relative;overflow:visible;background:#fff}
+@media(max-width:860px){
+  .print-builder{padding-bottom:108px}
+  .settings-card{max-height:none;overflow:visible}
+  .preview-heading{align-items:start;padding:20px 2px 0}
+  .preview-summary{margin-top:10px}
+  .mobile-print-bar{position:fixed;z-index:20;right:0;bottom:0;left:0;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:10px max(14px,env(safe-area-inset-right)) calc(10px + env(safe-area-inset-bottom)) max(14px,env(safe-area-inset-left));border-top:1px solid #cbd7cf;background:rgba(255,255,255,.96);box-shadow:0 -8px 22px rgba(23,63,53,.12);backdrop-filter:blur(12px)}
+  .mobile-print-bar p{min-width:0;margin:0;color:#4f645b;font-size:10px;font-weight:800;line-height:1.35}
+  .mobile-print-bar p span{display:block;color:#6b7d75;font-size:9px;letter-spacing:.08em}
+  .mobile-print-bar p strong{display:block;overflow:hidden;max-width:44vw;color:var(--ink);font-size:11px;text-overflow:ellipsis;white-space:nowrap}
+  .mobile-print-bar .print-button{width:auto;min-width:164px;min-height:48px;margin:0;padding:0 15px;font-size:13px}
+  .settings-card>#print{display:none}
+}
+@media(max-width:390px){
+  .mobile-print-bar{gap:8px}
+  .mobile-print-bar p strong{max-width:34vw}
+  .mobile-print-bar .print-button{min-width:142px;padding-inline:10px;font-size:12px}
+}
+@media screen{
+  .print-builder .worksheet{transform:none}
+}
+
+@media print{
+  @page{size:A4 portrait;margin:0}
+  html,body,#root{width:210mm;margin:0!important;padding:0!important;background:#fff}
+  .no-print,.offline-banner,.site-header,.site-footer{display:none!important}
+  .print-builder,.print-layout,.preview-area,.worksheet-frame,.worksheet-stack{display:block;width:210mm!important;height:auto!important;margin:0!important;padding:0!important;overflow:visible!important;background:transparent!important;box-shadow:none!important;transform:none!important}
+  .print-builder .worksheet,.print-builder .answer-sheet{
+    width:210mm!important;
+    height:297mm!important;
+    min-height:297mm!important;
+    max-height:297mm!important;
+    aspect-ratio:auto;
+    margin:0!important;
+    transform:none!important;
+    box-shadow:none!important;
+    break-after:page;
+    break-inside:avoid-page;
+    page-break-after:always;
+    page-break-inside:avoid;
+  }
+  .print-builder .worksheet:last-child{break-after:avoid-page;page-break-after:avoid}
+  .print-builder .problem-grid{break-inside:avoid-page}
+}

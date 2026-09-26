@@ -1,0 +1,1 @@
+{"id":"volume-5","grade":5,"subject":"算数","area":"B 図形","unit":"体積","summary":"直方体や立方体の体積を求めます。","objectives":["体積を求められる"],"exercise":{"type":"number","kind":"volumeBox","prompt":"体積を求めよう。"}}

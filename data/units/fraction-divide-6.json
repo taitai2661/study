@@ -1,0 +1,1 @@
+{"id":"fraction-divide-6","grade":6,"subject":"算数","area":"A 数と計算","unit":"分数のわり算","summary":"分数をわる計算をします。","objectives":["分数の除法ができる"],"exercise":{"type":"number","kind":"fractionDivide","prompt":"答えは約分して書こう。"}}

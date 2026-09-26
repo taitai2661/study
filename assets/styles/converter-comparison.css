@@ -1,0 +1,9 @@
+.converter-comparison{margin-top:14px;padding:18px 20px;border:1px solid #c9ddd4;border-radius:18px;background:#f0f7f3}
+.comparison-heading{display:flex;align-items:center;gap:8px;color:#173f35}
+.comparison-heading span{display:grid;place-items:center;width:25px;height:25px;border-radius:50%;background:var(--coral);color:#fff;font-size:17px}
+.comparison-heading strong{font-size:15px}
+.converter-comparison p{margin:9px 0 13px;color:#254e42;font-size:16px;font-weight:900;line-height:1.55}
+.comparison-scale{height:14px;overflow:hidden;border-radius:999px;background:#d7e7df}
+.comparison-scale span{display:block;min-width:4px;height:100%;border-radius:inherit;background:linear-gradient(90deg,var(--coral),#f2a65a)}
+.converter-comparison small{display:block;margin-top:8px;color:#60726c;font-size:12px;font-weight:800}
+@media(max-width:520px){.converter-comparison{padding:16px}.converter-comparison p{font-size:15px}}

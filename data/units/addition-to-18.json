@@ -1,0 +1,1 @@
+{"id":"addition-to-18","grade":1,"subject":"算数","area":"A 数と計算","unit":"くり上がりのあるたし算","summary":"10のまとまりを使って、答えが18までのたし算をします。","objectives":["くり上がりのあるたし算ができる"],"exercise":{"type":"number","kind":"addCarry","min":2,"max":9,"prompt":"計算しよう。"}}

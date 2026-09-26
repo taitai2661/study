@@ -1,0 +1,1 @@
+{"id":"decimal","grade":3,"subject":"算数","area":"A 数と計算","unit":"小数","summary":"端数を小数で表し、1より小さい数を考えます。","objectives":["小数の意味が分かる"],"exercise":{"type":"choice","kind":"decimal","prompt":"1より小さい数をえらぼう。"}}

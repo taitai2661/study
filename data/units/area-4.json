@@ -1,0 +1,1 @@
+{"id":"area-4","grade":4,"subject":"算数","area":"B 図形","unit":"面積","summary":"長方形や正方形の面積を求めます。","objectives":["面積を求められる"],"exercise":{"type":"number","kind":"areaRectangle","prompt":"面積を求めよう。"}}

@@ -1,0 +1,1 @@
+{"id":"clock","grade":1,"subject":"算数","area":"C 測定","unit":"時計","summary":"生活と結び付けて時刻を読みます。","objectives":["時刻を読める"],"exercise":{"type":"choice","kind":"clock","prompt":"何時かな？"}}

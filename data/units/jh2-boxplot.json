@@ -1,0 +1,1 @@
+{"id":"jh2-boxplot","grade":8,"subject":"数学","area":"D データの活用","unit":"四分位範囲・箱ひげ図","summary":"四分位数や箱ひげ図で分布を比較します。","objectives":["中央値や四分位数を求められる"],"exercise":{"type":"number","kind":"quartileBoxplot","prompt":"データの特徴を答えなさい。"}}

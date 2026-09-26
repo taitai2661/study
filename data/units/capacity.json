@@ -1,0 +1,1 @@
+{"id":"capacity","grade":3,"subject":"算数","area":"C 測定","unit":"かさ","summary":"L、dL、mLを使ってかさを表します。","objectives":["かさの単位を使える"],"exercise":{"type":"number","kind":"capacityConvert","prompt":"□に入る数は？"}}

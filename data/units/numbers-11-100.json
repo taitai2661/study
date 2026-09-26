@@ -1,0 +1,1 @@
+{"id":"numbers-11-100","grade":1,"subject":"算数","area":"A 数と計算","unit":"11から100までの数","summary":"十のまとまりを使って、大きな数を読みます。","objectives":["100までの数を読める","十と一の位を捉えられる"],"exercise":{"type":"number","kind":"countTens","min":11,"max":100,"prompt":"いくつになるかな？"}}

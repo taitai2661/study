@@ -1,0 +1,1098 @@
+[
+  {
+    "id": "numbers-1-10",
+    "grade": 1,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "1から10までの数",
+    "summary": "ものと数を対応させ、数の意味と読み書きを学びます。",
+    "objectives": [
+      "1から10までを数えられる",
+      "数字で表せる"
+    ],
+    "problemKind": "number"
+  },
+  {
+    "id": "order-compare",
+    "grade": 1,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "数のじゅんじょとくらべ方",
+    "summary": "数の順序と、どちらが多いかを考えます。",
+    "objectives": [
+      "数の順序が分かる",
+      "大小を比べられる"
+    ],
+    "problemKind": "compare"
+  },
+  {
+    "id": "make-10",
+    "grade": 1,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "10のまとまり",
+    "summary": "10を一つのまとまりとして捉えます。",
+    "objectives": [
+      "10の補数が分かる",
+      "数を分けられる"
+    ],
+    "problemKind": "complement10"
+  },
+  {
+    "id": "numbers-11-100",
+    "grade": 1,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "11から100までの数",
+    "summary": "十のまとまりを使って、大きな数を読みます。",
+    "objectives": [
+      "100までの数を読める",
+      "十と一の位を捉えられる"
+    ],
+    "problemKind": "countTens"
+  },
+  {
+    "id": "compose-decompose",
+    "grade": 1,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "数の分け方",
+    "summary": "数をいくつといくつに分けたり、合わせたりします。",
+    "objectives": [
+      "数の合成と分解ができる"
+    ],
+    "problemKind": "split"
+  },
+  {
+    "id": "addition-to-10",
+    "grade": 1,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "たし算（10まで）",
+    "summary": "合わせる場面をたし算の式に表します。",
+    "objectives": [
+      "10までのたし算ができる"
+    ],
+    "problemKind": "add"
+  },
+  {
+    "id": "subtraction-to-10",
+    "grade": 1,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "ひき算（10まで）",
+    "summary": "残りや違いをひき算で求めます。",
+    "objectives": [
+      "10までのひき算ができる"
+    ],
+    "problemKind": "subtract"
+  },
+  {
+    "id": "addition-to-18",
+    "grade": 1,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "くり上がりのあるたし算",
+    "summary": "10のまとまりを使って、答えが18までのたし算をします。",
+    "objectives": [
+      "くり上がりのあるたし算ができる"
+    ],
+    "problemKind": "addCarry"
+  },
+  {
+    "id": "subtraction-to-18",
+    "grade": 1,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "くり下がりのあるひき算",
+    "summary": "10のまとまりを使って、くり下がりのあるひき算をします。",
+    "objectives": [
+      "くり下がりのあるひき算ができる"
+    ],
+    "problemKind": "subtractBorrow"
+  },
+  {
+    "id": "equations-stories",
+    "grade": 1,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "式とお話",
+    "summary": "お話を読んで、たし算かひき算かを選びます。",
+    "objectives": [
+      "場面を式に表せる"
+    ],
+    "problemKind": "story"
+  },
+  {
+    "id": "shape-play",
+    "grade": 1,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "形あそび",
+    "summary": "身の回りのものの形に目を向けます。",
+    "objectives": [
+      "立体の形の特徴に気付く"
+    ],
+    "problemKind": "solid"
+  },
+  {
+    "id": "plane-shapes",
+    "grade": 1,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "いろいろな形",
+    "summary": "三角形、四角形、円などの特徴を捉えます。",
+    "objectives": [
+      "平面図形を見分けられる"
+    ],
+    "problemKind": "shape"
+  },
+  {
+    "id": "shape-making",
+    "grade": 1,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "形づくり",
+    "summary": "形を組み合わせたり分けたりします。",
+    "objectives": [
+      "形の構成を考えられる"
+    ],
+    "problemKind": "composeShape"
+  },
+  {
+    "id": "compare-quantities",
+    "grade": 1,
+    "subject": "算数",
+    "area": "C 測定",
+    "unit": "大きさくらべ",
+    "summary": "長さ・広さ・かさを直接比べたり、任意の単位で比べたりします。",
+    "objectives": [
+      "量の大小を比べられる"
+    ],
+    "problemKind": "quantity"
+  },
+  {
+    "id": "clock",
+    "grade": 1,
+    "subject": "算数",
+    "area": "C 測定",
+    "unit": "時計",
+    "summary": "生活と結び付けて時刻を読みます。",
+    "objectives": [
+      "時刻を読める"
+    ],
+    "problemKind": "clock"
+  },
+  {
+    "id": "picture-data",
+    "grade": 1,
+    "subject": "算数",
+    "area": "D データの活用",
+    "unit": "絵や図であらわそう",
+    "summary": "絵や図を使って数量を表し、比べます。",
+    "objectives": [
+      "絵グラフから個数を読み取れる"
+    ],
+    "problemKind": "pictograph"
+  },
+  {
+    "id": "numbers-1000",
+    "grade": 2,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "1000までの数",
+    "summary": "百のまとまりに着目して、1000までの数を読み書きします。",
+    "objectives": [
+      "1000までの数を読める",
+      "位取りを理解する"
+    ],
+    "problemKind": "placeValue"
+  },
+  {
+    "id": "addition-2digit",
+    "grade": 2,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "2けたのたし算",
+    "summary": "くり上がりを使って、2けたのたし算をします。",
+    "objectives": [
+      "筆算の意味を理解する",
+      "2けたのたし算ができる"
+    ],
+    "problemKind": "add2"
+  },
+  {
+    "id": "subtraction-2digit",
+    "grade": 2,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "2けたのひき算",
+    "summary": "くり下がりを使って、2けたのひき算をします。",
+    "objectives": [
+      "筆算の意味を理解する",
+      "2けたのひき算ができる"
+    ],
+    "problemKind": "subtract2"
+  },
+  {
+    "id": "multiplication-intro",
+    "grade": 2,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "かけ算",
+    "summary": "同じ数ずつある場面をかけ算で表します。",
+    "objectives": [
+      "かけ算の意味が分かる",
+      "九九を使える"
+    ],
+    "problemKind": "multiply"
+  },
+  {
+    "id": "fractions-intro",
+    "grade": 2,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "分数",
+    "summary": "半分や三等分など、等しく分けた大きさを表します。",
+    "objectives": [
+      "分数の意味が分かる"
+    ],
+    "problemKind": "fraction"
+  },
+  {
+    "id": "length",
+    "grade": 2,
+    "subject": "算数",
+    "area": "C 測定",
+    "unit": "長さ",
+    "summary": "cm、mm、mを使って長さを表します。",
+    "objectives": [
+      "長さの単位を使える",
+      "単位を換算できる"
+    ],
+    "problemKind": "lengthConvert"
+  },
+  {
+    "id": "time",
+    "grade": 2,
+    "subject": "算数",
+    "area": "C 測定",
+    "unit": "時こくと時間",
+    "summary": "時刻と時間の違いを考え、時間を求めます。",
+    "objectives": [
+      "時刻を読める",
+      "時間を求められる"
+    ],
+    "problemKind": "timeElapsed"
+  },
+  {
+    "id": "money",
+    "grade": 2,
+    "subject": "算数",
+    "area": "C 測定",
+    "unit": "お金",
+    "summary": "硬貨や紙幣を使い、金額を表したり計算したりします。",
+    "objectives": [
+      "金額を数えられる"
+    ],
+    "problemKind": "money"
+  },
+  {
+    "id": "triangles-rectangles",
+    "grade": 2,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "三角形と四角形",
+    "summary": "辺や頂点に注目して図形の特徴を調べます。",
+    "objectives": [
+      "三角形と四角形を見分けられる"
+    ],
+    "problemKind": "polygon"
+  },
+  {
+    "id": "box-shapes",
+    "grade": 2,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "はこの形",
+    "summary": "箱の形を作り、面・辺・頂点に気付きます。",
+    "objectives": [
+      "箱の形の特徴を理解する"
+    ],
+    "problemKind": "solid"
+  },
+  {
+    "id": "tables-graphs",
+    "grade": 2,
+    "subject": "算数",
+    "area": "D データの活用",
+    "unit": "表とグラフ",
+    "summary": "表やグラフに整理して、数量を比べます。",
+    "objectives": [
+      "表やグラフを読める"
+    ],
+    "problemKind": "pictograph"
+  },
+  {
+    "id": "numbers-10000",
+    "grade": 3,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "10000までの数",
+    "summary": "10000までの数を位取りを使って表します。",
+    "objectives": [
+      "10000までの数を読める",
+      "位取りを理解する"
+    ],
+    "problemKind": "placeValue"
+  },
+  {
+    "id": "addition-subtraction-3digit",
+    "grade": 3,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "3けたのたし算とひき算",
+    "summary": "3けたの筆算を使って計算します。",
+    "objectives": [
+      "筆算で正しく計算できる"
+    ],
+    "problemKind": "add3"
+  },
+  {
+    "id": "multiplication-2digit",
+    "grade": 3,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "かけ算の筆算",
+    "summary": "2けたの数に1けたの数をかける筆算を学びます。",
+    "objectives": [
+      "かけ算の筆算ができる"
+    ],
+    "problemKind": "multiply2"
+  },
+  {
+    "id": "division",
+    "grade": 3,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "わり算",
+    "summary": "同じ数ずつ分ける場面をわり算で表します。",
+    "objectives": [
+      "わり算の意味が分かる",
+      "あまりのないわり算ができる"
+    ],
+    "problemKind": "divide"
+  },
+  {
+    "id": "fractions-3",
+    "grade": 3,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "分数",
+    "summary": "分数の大きさや、同じ大きさの分数を考えます。",
+    "objectives": [
+      "分数を読んで表せる"
+    ],
+    "problemKind": "fraction"
+  },
+  {
+    "id": "decimal",
+    "grade": 3,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "小数",
+    "summary": "端数を小数で表し、1より小さい数を考えます。",
+    "objectives": [
+      "小数の意味が分かる"
+    ],
+    "problemKind": "decimal"
+  },
+  {
+    "id": "length-3",
+    "grade": 3,
+    "subject": "算数",
+    "area": "C 測定",
+    "unit": "長さ",
+    "summary": "kmなどの単位を使い、長さを表します。",
+    "objectives": [
+      "長さの単位を換算できる"
+    ],
+    "problemKind": "lengthConvert3"
+  },
+  {
+    "id": "weight",
+    "grade": 3,
+    "subject": "算数",
+    "area": "C 測定",
+    "unit": "重さ",
+    "summary": "g、kgを使って重さを表します。",
+    "objectives": [
+      "重さの単位を使える"
+    ],
+    "problemKind": "weightConvert"
+  },
+  {
+    "id": "capacity",
+    "grade": 3,
+    "subject": "算数",
+    "area": "C 測定",
+    "unit": "かさ",
+    "summary": "L、dL、mLを使ってかさを表します。",
+    "objectives": [
+      "かさの単位を使える"
+    ],
+    "problemKind": "capacityConvert"
+  },
+  {
+    "id": "angles-circles",
+    "grade": 3,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "円と球",
+    "summary": "円や球の特徴に注目し、半径や直径を学びます。",
+    "objectives": [
+      "円の中心、半径、直径を理解する"
+    ],
+    "problemKind": "circle"
+  },
+  {
+    "id": "triangles-3",
+    "grade": 3,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "三角形",
+    "summary": "二等辺三角形や正三角形の特徴を調べます。",
+    "objectives": [
+      "三角形の特徴を理解する"
+    ],
+    "problemKind": "triangleType"
+  },
+  {
+    "id": "bar-graph",
+    "grade": 3,
+    "subject": "算数",
+    "area": "D データの活用",
+    "unit": "ぼうグラフ",
+    "summary": "棒グラフに表して、数量の違いを読み取ります。",
+    "objectives": [
+      "棒グラフを読める",
+      "資料を整理できる"
+    ],
+    "problemKind": "pictograph"
+  },
+  {
+    "id": "numbers-100-million",
+    "grade": 4,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "大きな数",
+    "summary": "億や兆までの数を位取りで表します。",
+    "objectives": [
+      "大きな数の位取りが分かる"
+    ],
+    "problemKind": "largeNumber"
+  },
+  {
+    "id": "rounding-4",
+    "grade": 4,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "概数",
+    "summary": "目的に合わせて数を丸めます。",
+    "objectives": [
+      "概数を求められる"
+    ],
+    "problemKind": "rounding"
+  },
+  {
+    "id": "division-4",
+    "grade": 4,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "わり算の筆算",
+    "summary": "商が2けた以上になるわり算をします。",
+    "objectives": [
+      "わり算の筆算ができる"
+    ],
+    "problemKind": "wholeDivide"
+  },
+  {
+    "id": "decimal-4",
+    "grade": 4,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "小数のたし算とひき算",
+    "summary": "小数点をそろえて計算します。",
+    "objectives": [
+      "小数の加減ができる"
+    ],
+    "problemKind": "decimalCalc"
+  },
+  {
+    "id": "fraction-add-4",
+    "grade": 4,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "分数のたし算とひき算",
+    "summary": "同じ分母の分数を計算します。",
+    "objectives": [
+      "同分母分数の加減ができる"
+    ],
+    "problemKind": "fractionAdd"
+  },
+  {
+    "id": "angle-4",
+    "grade": 4,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "角とその大きさ",
+    "summary": "角の大きさを度で表します。",
+    "objectives": [
+      "角度を読める"
+    ],
+    "problemKind": "angle"
+  },
+  {
+    "id": "quadrilaterals-4",
+    "grade": 4,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "垂直・平行と四角形",
+    "summary": "辺の位置関係と四角形の性質を調べます。",
+    "objectives": [
+      "四角形の特徴が分かる"
+    ],
+    "problemKind": "shapeChoice"
+  },
+  {
+    "id": "area-4",
+    "grade": 4,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "面積",
+    "summary": "長方形や正方形の面積を求めます。",
+    "objectives": [
+      "面積を求められる"
+    ],
+    "problemKind": "areaRectangle"
+  },
+  {
+    "id": "solids-4",
+    "grade": 4,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "立体",
+    "summary": "直方体や立方体の構成を考えます。",
+    "objectives": [
+      "立体の特徴が分かる"
+    ],
+    "problemKind": "volumeBox"
+  },
+  {
+    "id": "change-4",
+    "grade": 4,
+    "subject": "算数",
+    "area": "C 変化と関係",
+    "unit": "変わり方",
+    "summary": "伴って変わる数量の関係を考えます。",
+    "objectives": [
+      "対応する数量を求められる"
+    ],
+    "problemKind": "proportion"
+  },
+  {
+    "id": "line-graph-4",
+    "grade": 4,
+    "subject": "算数",
+    "area": "D データの活用",
+    "unit": "折れ線グラフ",
+    "summary": "変化の様子をグラフから読み取ります。",
+    "objectives": [
+      "グラフを読める"
+    ],
+    "problemKind": "graphChoice"
+  },
+  {
+    "id": "integer-properties-5",
+    "grade": 5,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "整数の性質",
+    "summary": "倍数や約数に着目します。",
+    "objectives": [
+      "整数の性質を使える"
+    ],
+    "problemKind": "wholeDivide"
+  },
+  {
+    "id": "decimal-multiply-5",
+    "grade": 5,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "小数のかけ算",
+    "summary": "小数をかける計算をします。",
+    "objectives": [
+      "小数の乗法ができる"
+    ],
+    "problemKind": "decimalMultiply"
+  },
+  {
+    "id": "decimal-divide-5",
+    "grade": 5,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "小数のわり算",
+    "summary": "小数をわる計算をします。",
+    "objectives": [
+      "小数の除法ができる"
+    ],
+    "problemKind": "decimalDivide"
+  },
+  {
+    "id": "fraction-add-5",
+    "grade": 5,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "分数のたし算とひき算",
+    "summary": "通分して分数を計算します。",
+    "objectives": [
+      "異分母分数の加減ができる"
+    ],
+    "problemKind": "fractionAddUnlike"
+  },
+  {
+    "id": "congruent-5",
+    "grade": 5,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "合同な図形",
+    "summary": "対応する辺や角に着目します。",
+    "objectives": [
+      "合同の意味が分かる"
+    ],
+    "problemKind": "shapeChoice"
+  },
+  {
+    "id": "triangle-area-5",
+    "grade": 5,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "三角形と四角形の面積",
+    "summary": "底辺と高さを使って面積を求めます。",
+    "objectives": [
+      "三角形の面積を求められる"
+    ],
+    "problemKind": "areaTriangle"
+  },
+  {
+    "id": "volume-5",
+    "grade": 5,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "体積",
+    "summary": "直方体や立方体の体積を求めます。",
+    "objectives": [
+      "体積を求められる"
+    ],
+    "problemKind": "volumeBox"
+  },
+  {
+    "id": "ratio-5",
+    "grade": 5,
+    "subject": "算数",
+    "area": "C 変化と関係",
+    "unit": "割合",
+    "summary": "基にする量と比べる量の関係を考えます。",
+    "objectives": [
+      "割合の基礎を使える"
+    ],
+    "problemKind": "rate"
+  },
+  {
+    "id": "speed-5",
+    "grade": 5,
+    "subject": "算数",
+    "area": "C 変化と関係",
+    "unit": "速さ",
+    "summary": "道のり・速さ・時間の関係を考えます。",
+    "objectives": [
+      "道のりを求められる"
+    ],
+    "problemKind": "speed"
+  },
+  {
+    "id": "average-5",
+    "grade": 5,
+    "subject": "算数",
+    "area": "D データの活用",
+    "unit": "平均",
+    "summary": "複数の量をならして考えます。",
+    "objectives": [
+      "平均を求められる"
+    ],
+    "problemKind": "average"
+  },
+  {
+    "id": "band-pie-5",
+    "grade": 5,
+    "subject": "算数",
+    "area": "D データの活用",
+    "unit": "帯グラフと円グラフ",
+    "summary": "割合を表すグラフを読み取ります。",
+    "objectives": [
+      "割合のグラフを読める"
+    ],
+    "problemKind": "graphChoice"
+  },
+  {
+    "id": "fraction-multiply-6",
+    "grade": 6,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "分数のかけ算",
+    "summary": "分数をかける計算をします。",
+    "objectives": [
+      "分数の乗法ができる"
+    ],
+    "problemKind": "fractionMultiply"
+  },
+  {
+    "id": "fraction-divide-6",
+    "grade": 6,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "分数のわり算",
+    "summary": "分数をわる計算をします。",
+    "objectives": [
+      "分数の除法ができる"
+    ],
+    "problemKind": "fractionDivide"
+  },
+  {
+    "id": "ratio-6",
+    "grade": 6,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "比",
+    "summary": "二つの量の割合を比で表します。",
+    "objectives": [
+      "比を表せる"
+    ],
+    "problemKind": "ratio"
+  },
+  {
+    "id": "formula-6",
+    "grade": 6,
+    "subject": "算数",
+    "area": "A 数と計算",
+    "unit": "文字を使った式",
+    "summary": "数量の関係を文字を用いて表します。",
+    "objectives": [
+      "式に数を当てはめられる"
+    ],
+    "problemKind": "formula"
+  },
+  {
+    "id": "symmetry-6",
+    "grade": 6,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "対称な図形",
+    "summary": "線対称・点対称な図形を調べます。",
+    "objectives": [
+      "対称の特徴が分かる"
+    ],
+    "problemKind": "symmetry"
+  },
+  {
+    "id": "circle-area-6",
+    "grade": 6,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "円の面積",
+    "summary": "半径を使って円の面積を求めます。",
+    "objectives": [
+      "円の面積を求められる"
+    ],
+    "problemKind": "circleArea"
+  },
+  {
+    "id": "prism-cylinder-6",
+    "grade": 6,
+    "subject": "算数",
+    "area": "B 図形",
+    "unit": "角柱と円柱の体積",
+    "summary": "底面積と高さから体積を求めます。",
+    "objectives": [
+      "角柱の体積を求められる"
+    ],
+    "problemKind": "prismVolume"
+  },
+  {
+    "id": "proportion-6",
+    "grade": 6,
+    "subject": "算数",
+    "area": "C 変化と関係",
+    "unit": "比例",
+    "summary": "二つの数量の比例関係を考えます。",
+    "objectives": [
+      "比例を使って求められる"
+    ],
+    "problemKind": "proportion"
+  },
+  {
+    "id": "inverse-proportion-6",
+    "grade": 6,
+    "subject": "算数",
+    "area": "C 変化と関係",
+    "unit": "反比例",
+    "summary": "反比例する二つの数量を考えます。",
+    "objectives": [
+      "反比例を使って求められる"
+    ],
+    "problemKind": "inverseProportion"
+  },
+  {
+    "id": "combinations-6",
+    "grade": 6,
+    "subject": "算数",
+    "area": "D データの活用",
+    "unit": "場合の数",
+    "summary": "順序よく整理して場合の数を求めます。",
+    "objectives": [
+      "場合の数を数えられる"
+    ],
+    "problemKind": "combinations"
+  },
+  {
+    "id": "data-representative-6",
+    "grade": 6,
+    "subject": "算数",
+    "area": "D データの活用",
+    "unit": "度数分布と代表値",
+    "summary": "資料の特徴を表や数値から読み取ります。",
+    "objectives": [
+      "データの特徴を捉えられる"
+    ],
+    "problemKind": "dataRead"
+  },
+  {
+    "id": "jp1-kanji-reading",
+    "grade": 1,
+    "subject": "国語",
+    "area": "漢字",
+    "unit": "漢字の読み",
+    "summary": "一年生で学ぶ漢字の読み方を練習します。",
+    "objectives": [
+      "漢字を読める"
+    ],
+    "problemKind": "kanjiReading"
+  },
+  {
+    "id": "jp1-kanji-writing",
+    "grade": 1,
+    "subject": "国語",
+    "area": "漢字",
+    "unit": "漢字を書く",
+    "summary": "言葉を漢字で書く練習をします。",
+    "objectives": [
+      "習った漢字を書ける"
+    ],
+    "problemKind": "kanjiWriting"
+  },
+  {
+    "id": "jp2-kanji-reading",
+    "grade": 2,
+    "subject": "国語",
+    "area": "漢字",
+    "unit": "漢字の読み",
+    "summary": "二年生で学ぶ漢字の読み方を練習します。",
+    "objectives": [
+      "漢字を読める"
+    ],
+    "problemKind": "kanjiReading"
+  },
+  {
+    "id": "jp2-kanji-writing",
+    "grade": 2,
+    "subject": "国語",
+    "area": "漢字",
+    "unit": "漢字を書く",
+    "summary": "言葉を漢字で書く練習をします。",
+    "objectives": [
+      "習った漢字を書ける"
+    ],
+    "problemKind": "kanjiWriting"
+  },
+  {
+    "id": "jp3-kanji-reading",
+    "grade": 3,
+    "subject": "国語",
+    "area": "漢字",
+    "unit": "漢字の読み",
+    "summary": "三年生で学ぶ漢字の読み方を練習します。",
+    "objectives": [
+      "熟語を読める"
+    ],
+    "problemKind": "kanjiReading"
+  },
+  {
+    "id": "jp3-kanji-writing",
+    "grade": 3,
+    "subject": "国語",
+    "area": "漢字",
+    "unit": "漢字を書く",
+    "summary": "言葉を漢字で書く練習をします。",
+    "objectives": [
+      "習った漢字を書ける"
+    ],
+    "problemKind": "kanjiWriting"
+  },
+  {
+    "id": "jp4-kanji-reading",
+    "grade": 4,
+    "subject": "国語",
+    "area": "漢字",
+    "unit": "漢字の読み",
+    "summary": "四年生で学ぶ漢字の読み方を練習します。",
+    "objectives": [
+      "熟語を読める"
+    ],
+    "problemKind": "kanjiReading"
+  },
+  {
+    "id": "jp4-kanji-writing",
+    "grade": 4,
+    "subject": "国語",
+    "area": "漢字",
+    "unit": "漢字を書く",
+    "summary": "言葉を漢字で書く練習をします。",
+    "objectives": [
+      "習った漢字を書ける"
+    ],
+    "problemKind": "kanjiWriting"
+  },
+  {
+    "id": "jp4-homophone",
+    "grade": 4,
+    "subject": "国語",
+    "area": "語彙",
+    "unit": "同じ音の漢字",
+    "summary": "文に合う同音異義語を選びます。",
+    "objectives": [
+      "文脈に合う漢字を選べる"
+    ],
+    "problemKind": "homophone"
+  },
+  {
+    "id": "jp5-kanji-reading",
+    "grade": 5,
+    "subject": "国語",
+    "area": "漢字",
+    "unit": "漢字の読み",
+    "summary": "五年生で学ぶ漢字の読み方を練習します。",
+    "objectives": [
+      "熟語を読める"
+    ],
+    "problemKind": "kanjiReading"
+  },
+  {
+    "id": "jp5-kanji-writing",
+    "grade": 5,
+    "subject": "国語",
+    "area": "漢字",
+    "unit": "漢字を書く",
+    "summary": "言葉を漢字で書く練習をします。",
+    "objectives": [
+      "習った漢字を書ける"
+    ],
+    "problemKind": "kanjiWriting"
+  },
+  {
+    "id": "jp5-homophone",
+    "grade": 5,
+    "subject": "国語",
+    "area": "語彙",
+    "unit": "同じ音の漢字",
+    "summary": "文に合う同音異義語を選びます。",
+    "objectives": [
+      "文脈に合う同音異義語を選べる"
+    ],
+    "problemKind": "homophone"
+  },
+  {
+    "id": "jp6-kanji-reading",
+    "grade": 6,
+    "subject": "国語",
+    "area": "漢字",
+    "unit": "漢字の読み",
+    "summary": "六年生で学ぶ漢字の読み方を練習します。",
+    "objectives": [
+      "熟語を読める"
+    ],
+    "problemKind": "kanjiReading"
+  },
+  {
+    "id": "jp6-kanji-writing",
+    "grade": 6,
+    "subject": "国語",
+    "area": "漢字",
+    "unit": "漢字を書く",
+    "summary": "言葉を漢字で書く練習をします。",
+    "objectives": [
+      "習った漢字を書ける"
+    ],
+    "problemKind": "kanjiWriting"
+  },
+  {
+    "id": "jp6-homophone",
+    "grade": 6,
+    "subject": "国語",
+    "area": "語彙",
+    "unit": "同じ音の漢字",
+    "summary": "文に合う同音異義語を選びます。",
+    "objectives": [
+      "文脈に合う同音異義語を選べる"
+    ],
+    "problemKind": "homophone"
+  },
+  {"id":"science3-light-sound","grade":3,"subject":"理科","area":"エネルギー","unit":"光と音","summary":"光と音の性質を調べます。","objectives":["光と音の性質を説明できる"],"problemKind":"knowledgeChoice"},
+  {"id":"science3-magnet","grade":3,"subject":"理科","area":"粒子","unit":"磁石","summary":"磁石の性質を調べます。","objectives":["磁石を使って調べられる"],"problemKind":"knowledgeChoice"},
+  {"id":"science3-plants-insects","grade":3,"subject":"理科","area":"生命","unit":"植物と昆虫","summary":"植物と昆虫を観察します。","objectives":["生き物の育ち方を説明できる"],"problemKind":"knowledgeChoice"},
+  {"id":"science3-sun-shadow","grade":3,"subject":"理科","area":"地球","unit":"日なたと日かげ","summary":"日光と影を観察します。","objectives":["影の変化を説明できる"],"problemKind":"knowledgeChoice"},
+  {"id":"science4-electricity","grade":4,"subject":"理科","area":"エネルギー","unit":"電気のはたらき","summary":"電気の回路を調べます。","objectives":["電気のはたらきを説明できる"],"problemKind":"knowledgeChoice"},
+  {"id":"science4-air-water","grade":4,"subject":"理科","area":"粒子","unit":"空気と水","summary":"空気と水の変化を調べます。","objectives":["温まり方を説明できる"],"problemKind":"knowledgeChoice"},
+  {"id":"science4-human-seasons","grade":4,"subject":"理科","area":"生命","unit":"人の体と季節","summary":"体と季節の変化を調べます。","objectives":["体と生き物の変化に気付く"],"problemKind":"knowledgeChoice"},
+  {"id":"science4-weather","grade":4,"subject":"理科","area":"地球","unit":"天気","summary":"雲と天気を観察します。","objectives":["天気を観察できる"],"problemKind":"knowledgeChoice"},
+  {"id":"science5-pendulum","grade":5,"subject":"理科","area":"エネルギー","unit":"振り子","summary":"振り子の規則性を調べます。","objectives":["振り子の規則性を説明できる"],"problemKind":"knowledgeChoice"},
+  {"id":"science5-dissolving","grade":5,"subject":"理科","area":"粒子","unit":"ものの溶け方","summary":"物の溶け方を調べます。","objectives":["溶け方を説明できる"],"problemKind":"knowledgeChoice"},
+  {"id":"science5-germination","grade":5,"subject":"理科","area":"生命","unit":"発芽と成長","summary":"植物の成長を調べます。","objectives":["発芽の条件を説明できる"],"problemKind":"knowledgeChoice"},
+  {"id":"science5-weather-change","grade":5,"subject":"理科","area":"地球","unit":"天気の変化","summary":"雲と天気の変化を調べます。","objectives":["天気を予想できる"],"problemKind":"knowledgeChoice"},
+  {"id":"science6-combustion","grade":6,"subject":"理科","area":"エネルギー","unit":"燃焼","summary":"燃焼と空気を調べます。","objectives":["燃焼を説明できる"],"problemKind":"knowledgeChoice"},
+  {"id":"science6-solutions","grade":6,"subject":"理科","area":"粒子","unit":"水溶液","summary":"水溶液の性質を調べます。","objectives":["水溶液を調べられる"],"problemKind":"knowledgeChoice"},
+  {"id":"science6-human-organisms","grade":6,"subject":"理科","area":"生命","unit":"人の体と生物","summary":"体と生物の関係を調べます。","objectives":["生物の関係を説明できる"],"problemKind":"knowledgeChoice"},
+  {"id":"science6-land-moon","grade":6,"subject":"理科","area":"地球","unit":"土地と月","summary":"土地と月の変化を調べます。","objectives":["土地と月を説明できる"],"problemKind":"knowledgeChoice"},
+  {"id":"jh1-signed-numbers","grade":7,"subject":"数学","area":"A 数と式","unit":"正の数・負の数","summary":"正負の数の意味と四則計算を学びます。","objectives":["正負の数を計算できる"],"problemKind":"signedNumbers"},
+  {"id":"jh1-linear-expression","grade":7,"subject":"数学","area":"A 数と式","unit":"文字と式","summary":"文字を使って数量を表し、式の値を求めます。","objectives":["文字式に数を代入できる"],"problemKind":"linearExpression"},
+  {"id":"jh1-linear-equation","grade":7,"subject":"数学","area":"A 数と式","unit":"一元一次方程式","summary":"等式の性質を使って一次方程式を解きます。","objectives":["一元一次方程式を解ける"],"problemKind":"linearEquation"},
+  {"id":"jh1-proportion","grade":7,"subject":"数学","area":"C 関数","unit":"比例・反比例","summary":"比例と反比例の関係を式や表で捉えます。","objectives":["比例の値を求められる"],"problemKind":"juniorProportion"},
+  {"id":"jh1-plane-geometry","grade":7,"subject":"数学","area":"B 図形","unit":"平面図形","summary":"基本的な作図と角の関係を学びます。","objectives":["直線上の角を求められる"],"problemKind":"planeGeometry"},
+  {"id":"jh1-solid-geometry","grade":7,"subject":"数学","area":"B 図形","unit":"空間図形","summary":"立体の構成や体積を考えます。","objectives":["立体の体積を求められる"],"problemKind":"solidGeometry"},
+  {"id":"jh1-data-distribution","grade":7,"subject":"数学","area":"D データの活用","unit":"データの分布","summary":"データを整理し、代表値を読み取ります。","objectives":["中央値を求められる"],"problemKind":"dataDistribution"},
+  {"id":"jh1-relative-frequency","grade":7,"subject":"数学","area":"D データの活用","unit":"相対度数と確率","summary":"相対度数から不確定な事象を考えます。","objectives":["相対度数を求められる"],"problemKind":"relativeFrequency"},
+  {"id":"jh2-expression-calculation","grade":8,"subject":"数学","area":"A 数と式","unit":"式の計算","summary":"単項式と多項式を計算します。","objectives":["文字式を簡単にできる"],"problemKind":"expressionCalculation"},
+  {"id":"jh2-simultaneous-equations","grade":8,"subject":"数学","area":"A 数と式","unit":"連立方程式","summary":"二つの一次方程式を組み合わせて解きます。","objectives":["連立方程式を解ける"],"problemKind":"simultaneousEquations"},
+  {"id":"jh2-linear-function","grade":8,"subject":"数学","area":"C 関数","unit":"一次関数","summary":"一次関数を式・表・グラフで捉えます。","objectives":["一次関数の値を求められる"],"problemKind":"linearFunction"},
+  {"id":"jh2-congruence","grade":8,"subject":"数学","area":"B 図形","unit":"図形の性質と合同","summary":"合同条件を根拠に図形の性質を考えます。","objectives":["三角形の合同条件を理解する"],"problemKind":"congruence"},
+  {"id":"jh2-triangle-properties","grade":8,"subject":"数学","area":"B 図形","unit":"三角形・四角形","summary":"三角形や四角形の性質を使って角を求めます。","objectives":["二等辺三角形の性質を使える"],"problemKind":"triangleProperties"},
+  {"id":"jh2-probability","grade":8,"subject":"数学","area":"D データの活用","unit":"確率","summary":"場合の数を基に確率を求めます。","objectives":["簡単な確率を求められる"],"problemKind":"probabilityBasic"},
+  {"id":"jh2-boxplot","grade":8,"subject":"数学","area":"D データの活用","unit":"四分位範囲・箱ひげ図","summary":"四分位数や箱ひげ図で分布を比較します。","objectives":["中央値や四分位数を求められる"],"problemKind":"quartileBoxplot"},
+  {"id":"jh3-square-root","grade":9,"subject":"数学","area":"A 数と式","unit":"平方根","summary":"平方根の意味を理解し、根号を含む式を計算します。","objectives":["根号を簡単にできる"],"problemKind":"squareRoot"},
+  {"id":"jh3-expand-factor","grade":9,"subject":"数学","area":"A 数と式","unit":"式の展開と因数分解","summary":"乗法公式を使って展開・因数分解します。","objectives":["式を展開・因数分解できる"],"problemKind":"expandFactor"},
+  {"id":"jh3-quadratic-equation","grade":9,"subject":"数学","area":"A 数と式","unit":"二次方程式","summary":"因数分解などを使って二次方程式を解きます。","objectives":["二次方程式を解ける"],"problemKind":"quadraticEquation"},
+  {"id":"jh3-quadratic-function","grade":9,"subject":"数学","area":"C 関数","unit":"関数 y=ax²","summary":"二乗に比例する関数の特徴を調べます。","objectives":["関数 y=ax² の値を求められる"],"problemKind":"quadraticFunction"},
+  {"id":"jh3-similarity","grade":9,"subject":"数学","area":"B 図形","unit":"相似","summary":"相似な図形の性質や相似比を使います。","objectives":["相似比から辺の長さを求められる"],"problemKind":"similarity"},
+  {"id":"jh3-circle","grade":9,"subject":"数学","area":"B 図形","unit":"円","summary":"円周角と中心角の関係を考えます。","objectives":["円周角の定理を使える"],"problemKind":"circleTheorem"},
+  {"id":"jh3-pythagorean","grade":9,"subject":"数学","area":"B 図形","unit":"三平方の定理","summary":"直角三角形の辺の関係を使います。","objectives":["三平方の定理で辺を求められる"],"problemKind":"pythagorean"},
+  {"id":"jh3-sampling","grade":9,"subject":"数学","area":"D データの活用","unit":"標本調査","summary":"標本から母集団の傾向を推測します。","objectives":["標本調査から全体を推定できる"],"problemKind":"sampling"}
+]

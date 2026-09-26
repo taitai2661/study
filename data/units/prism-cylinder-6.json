@@ -1,0 +1,1 @@
+{"id":"prism-cylinder-6","grade":6,"subject":"算数","area":"B 図形","unit":"角柱と円柱の体積","summary":"底面積と高さから体積を求めます。","objectives":["角柱の体積を求められる"],"exercise":{"type":"number","kind":"prismVolume","prompt":"体積を求めよう。"}}

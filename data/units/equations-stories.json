@@ -1,0 +1,1 @@
+{"id":"equations-stories","grade":1,"subject":"算数","area":"A 数と計算","unit":"式とお話","summary":"お話を読んで、たし算かひき算かを選びます。","objectives":["場面を式に表せる"],"exercise":{"type":"choice","kind":"story","min":1,"max":9,"prompt":"お話に合う式をえらぼう。"}}

@@ -1,0 +1,14 @@
+[
+  {"name":"りんご","counter":"こ","increase":"もらいました","decrease":"食べました","kinds":["story","pictograph"]},
+  {"name":"みかん","counter":"こ","increase":"もらいました","decrease":"食べました","kinds":["story","pictograph"]},
+  {"name":"ぶどう","counter":"ふさ","increase":"もらいました","decrease":"食べました","kinds":["story","pictograph"]},
+  {"name":"いちご","counter":"こ","increase":"もらいました","decrease":"食べました","kinds":["story","pictograph"]},
+  {"name":"あめ","counter":"こ","increase":"もらいました","decrease":"食べました","kinds":["story","pictograph"]},
+  {"name":"クッキー","counter":"まい","increase":"もらいました","decrease":"食べました","kinds":["story","pictograph"]},
+  {"name":"えんぴつ","counter":"本","increase":"もらいました","decrease":"使いました","kinds":["story","pictograph"]},
+  {"name":"けしゴム","counter":"こ","increase":"もらいました","decrease":"使いました","kinds":["story","pictograph"]},
+  {"name":"ノート","counter":"さつ","increase":"もらいました","decrease":"使いました","kinds":["story","pictograph"]},
+  {"name":"おりがみ","counter":"まい","increase":"もらいました","decrease":"使いました","kinds":["story","pictograph"]},
+  {"name":"シール","counter":"まい","increase":"もらいました","decrease":"使いました","kinds":["story","pictograph"]},
+  {"name":"ビー玉","counter":"こ","increase":"もらいました","decrease":"使いました","kinds":["story","pictograph"]}
+]

@@ -1,0 +1,1 @@
+{"id":"jh3-expand-factor","grade":9,"subject":"数学","area":"A 数と式","unit":"式の展開と因数分解","summary":"乗法公式を使って展開・因数分解します。","objectives":["式を展開・因数分解できる"],"exercise":{"type":"number","kind":"expandFactor","prompt":"式を展開または因数分解しなさい。"}}

@@ -1,0 +1,6161 @@
+{
+  "source": "KANJIDIC2",
+  "facts": [
+    {
+      "character": "一",
+      "schoolGrade": 1,
+      "strokeCount": 1,
+      "radical": 1
+    },
+    {
+      "character": "右",
+      "schoolGrade": 1,
+      "strokeCount": 5,
+      "radical": 30
+    },
+    {
+      "character": "雨",
+      "schoolGrade": 1,
+      "strokeCount": 8,
+      "radical": 173
+    },
+    {
+      "character": "円",
+      "schoolGrade": 1,
+      "strokeCount": 4,
+      "radical": 13
+    },
+    {
+      "character": "王",
+      "schoolGrade": 1,
+      "strokeCount": 4,
+      "radical": 96
+    },
+    {
+      "character": "音",
+      "schoolGrade": 1,
+      "strokeCount": 9,
+      "radical": 180
+    },
+    {
+      "character": "下",
+      "schoolGrade": 1,
+      "strokeCount": 3,
+      "radical": 1
+    },
+    {
+      "character": "火",
+      "schoolGrade": 1,
+      "strokeCount": 4,
+      "radical": 86
+    },
+    {
+      "character": "花",
+      "schoolGrade": 1,
+      "strokeCount": 7,
+      "radical": 140
+    },
+    {
+      "character": "貝",
+      "schoolGrade": 1,
+      "strokeCount": 7,
+      "radical": 154
+    },
+    {
+      "character": "学",
+      "schoolGrade": 1,
+      "strokeCount": 8,
+      "radical": 39
+    },
+    {
+      "character": "気",
+      "schoolGrade": 1,
+      "strokeCount": 6,
+      "radical": 84
+    },
+    {
+      "character": "休",
+      "schoolGrade": 1,
+      "strokeCount": 6,
+      "radical": 9
+    },
+    {
+      "character": "玉",
+      "schoolGrade": 1,
+      "strokeCount": 5,
+      "radical": 96
+    },
+    {
+      "character": "金",
+      "schoolGrade": 1,
+      "strokeCount": 8,
+      "radical": 167
+    },
+    {
+      "character": "九",
+      "schoolGrade": 1,
+      "strokeCount": 2,
+      "radical": 5
+    },
+    {
+      "character": "空",
+      "schoolGrade": 1,
+      "strokeCount": 8,
+      "radical": 116
+    },
+    {
+      "character": "月",
+      "schoolGrade": 1,
+      "strokeCount": 4,
+      "radical": 74
+    },
+    {
+      "character": "犬",
+      "schoolGrade": 1,
+      "strokeCount": 4,
+      "radical": 94
+    },
+    {
+      "character": "見",
+      "schoolGrade": 1,
+      "strokeCount": 7,
+      "radical": 147
+    },
+    {
+      "character": "五",
+      "schoolGrade": 1,
+      "strokeCount": 4,
+      "radical": 7
+    },
+    {
+      "character": "口",
+      "schoolGrade": 1,
+      "strokeCount": 3,
+      "radical": 30
+    },
+    {
+      "character": "校",
+      "schoolGrade": 1,
+      "strokeCount": 10,
+      "radical": 75
+    },
+    {
+      "character": "左",
+      "schoolGrade": 1,
+      "strokeCount": 5,
+      "radical": 48
+    },
+    {
+      "character": "三",
+      "schoolGrade": 1,
+      "strokeCount": 3,
+      "radical": 1
+    },
+    {
+      "character": "山",
+      "schoolGrade": 1,
+      "strokeCount": 3,
+      "radical": 46
+    },
+    {
+      "character": "四",
+      "schoolGrade": 1,
+      "strokeCount": 5,
+      "radical": 31
+    },
+    {
+      "character": "子",
+      "schoolGrade": 1,
+      "strokeCount": 3,
+      "radical": 39
+    },
+    {
+      "character": "糸",
+      "schoolGrade": 1,
+      "strokeCount": 6,
+      "radical": 120
+    },
+    {
+      "character": "字",
+      "schoolGrade": 1,
+      "strokeCount": 6,
+      "radical": 39
+    },
+    {
+      "character": "耳",
+      "schoolGrade": 1,
+      "strokeCount": 6,
+      "radical": 128
+    },
+    {
+      "character": "七",
+      "schoolGrade": 1,
+      "strokeCount": 2,
+      "radical": 1
+    },
+    {
+      "character": "車",
+      "schoolGrade": 1,
+      "strokeCount": 7,
+      "radical": 159
+    },
+    {
+      "character": "手",
+      "schoolGrade": 1,
+      "strokeCount": 4,
+      "radical": 64
+    },
+    {
+      "character": "十",
+      "schoolGrade": 1,
+      "strokeCount": 2,
+      "radical": 24
+    },
+    {
+      "character": "出",
+      "schoolGrade": 1,
+      "strokeCount": 5,
+      "radical": 17
+    },
+    {
+      "character": "女",
+      "schoolGrade": 1,
+      "strokeCount": 3,
+      "radical": 38
+    },
+    {
+      "character": "小",
+      "schoolGrade": 1,
+      "strokeCount": 3,
+      "radical": 42
+    },
+    {
+      "character": "上",
+      "schoolGrade": 1,
+      "strokeCount": 3,
+      "radical": 1
+    },
+    {
+      "character": "森",
+      "schoolGrade": 1,
+      "strokeCount": 12,
+      "radical": 75
+    },
+    {
+      "character": "人",
+      "schoolGrade": 1,
+      "strokeCount": 2,
+      "radical": 9
+    },
+    {
+      "character": "水",
+      "schoolGrade": 1,
+      "strokeCount": 4,
+      "radical": 85
+    },
+    {
+      "character": "正",
+      "schoolGrade": 1,
+      "strokeCount": 5,
+      "radical": 77
+    },
+    {
+      "character": "生",
+      "schoolGrade": 1,
+      "strokeCount": 5,
+      "radical": 100
+    },
+    {
+      "character": "青",
+      "schoolGrade": 1,
+      "strokeCount": 8,
+      "radical": 174
+    },
+    {
+      "character": "石",
+      "schoolGrade": 1,
+      "strokeCount": 5,
+      "radical": 112
+    },
+    {
+      "character": "赤",
+      "schoolGrade": 1,
+      "strokeCount": 7,
+      "radical": 155
+    },
+    {
+      "character": "先",
+      "schoolGrade": 1,
+      "strokeCount": 6,
+      "radical": 10
+    },
+    {
+      "character": "千",
+      "schoolGrade": 1,
+      "strokeCount": 3,
+      "radical": 24
+    },
+    {
+      "character": "川",
+      "schoolGrade": 1,
+      "strokeCount": 3,
+      "radical": 47
+    },
+    {
+      "character": "早",
+      "schoolGrade": 1,
+      "strokeCount": 6,
+      "radical": 72
+    },
+    {
+      "character": "草",
+      "schoolGrade": 1,
+      "strokeCount": 9,
+      "radical": 140
+    },
+    {
+      "character": "足",
+      "schoolGrade": 1,
+      "strokeCount": 7,
+      "radical": 157
+    },
+    {
+      "character": "村",
+      "schoolGrade": 1,
+      "strokeCount": 7,
+      "radical": 75
+    },
+    {
+      "character": "大",
+      "schoolGrade": 1,
+      "strokeCount": 3,
+      "radical": 37
+    },
+    {
+      "character": "男",
+      "schoolGrade": 1,
+      "strokeCount": 7,
+      "radical": 102
+    },
+    {
+      "character": "竹",
+      "schoolGrade": 1,
+      "strokeCount": 6,
+      "radical": 118
+    },
+    {
+      "character": "中",
+      "schoolGrade": 1,
+      "strokeCount": 4,
+      "radical": 2
+    },
+    {
+      "character": "虫",
+      "schoolGrade": 1,
+      "strokeCount": 6,
+      "radical": 142
+    },
+    {
+      "character": "町",
+      "schoolGrade": 1,
+      "strokeCount": 7,
+      "radical": 102
+    },
+    {
+      "character": "天",
+      "schoolGrade": 1,
+      "strokeCount": 4,
+      "radical": 37
+    },
+    {
+      "character": "田",
+      "schoolGrade": 1,
+      "strokeCount": 5,
+      "radical": 102
+    },
+    {
+      "character": "土",
+      "schoolGrade": 1,
+      "strokeCount": 3,
+      "radical": 32
+    },
+    {
+      "character": "二",
+      "schoolGrade": 1,
+      "strokeCount": 2,
+      "radical": 7
+    },
+    {
+      "character": "日",
+      "schoolGrade": 1,
+      "strokeCount": 4,
+      "radical": 72
+    },
+    {
+      "character": "入",
+      "schoolGrade": 1,
+      "strokeCount": 2,
+      "radical": 11
+    },
+    {
+      "character": "年",
+      "schoolGrade": 1,
+      "strokeCount": 6,
+      "radical": 51
+    },
+    {
+      "character": "白",
+      "schoolGrade": 1,
+      "strokeCount": 5,
+      "radical": 106
+    },
+    {
+      "character": "八",
+      "schoolGrade": 1,
+      "strokeCount": 2,
+      "radical": 12
+    },
+    {
+      "character": "百",
+      "schoolGrade": 1,
+      "strokeCount": 6,
+      "radical": 106
+    },
+    {
+      "character": "文",
+      "schoolGrade": 1,
+      "strokeCount": 4,
+      "radical": 67
+    },
+    {
+      "character": "本",
+      "schoolGrade": 1,
+      "strokeCount": 5,
+      "radical": 75
+    },
+    {
+      "character": "名",
+      "schoolGrade": 1,
+      "strokeCount": 6,
+      "radical": 30
+    },
+    {
+      "character": "木",
+      "schoolGrade": 1,
+      "strokeCount": 4,
+      "radical": 75
+    },
+    {
+      "character": "目",
+      "schoolGrade": 1,
+      "strokeCount": 5,
+      "radical": 109
+    },
+    {
+      "character": "夕",
+      "schoolGrade": 1,
+      "strokeCount": 3,
+      "radical": 36
+    },
+    {
+      "character": "立",
+      "schoolGrade": 1,
+      "strokeCount": 5,
+      "radical": 117
+    },
+    {
+      "character": "力",
+      "schoolGrade": 1,
+      "strokeCount": 2,
+      "radical": 19
+    },
+    {
+      "character": "林",
+      "schoolGrade": 1,
+      "strokeCount": 8,
+      "radical": 75
+    },
+    {
+      "character": "六",
+      "schoolGrade": 1,
+      "strokeCount": 4,
+      "radical": 12
+    },
+    {
+      "character": "引",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 57
+    },
+    {
+      "character": "羽",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 124
+    },
+    {
+      "character": "雲",
+      "schoolGrade": 2,
+      "strokeCount": 12,
+      "radical": 173
+    },
+    {
+      "character": "園",
+      "schoolGrade": 2,
+      "strokeCount": 13,
+      "radical": 31
+    },
+    {
+      "character": "遠",
+      "schoolGrade": 2,
+      "strokeCount": 13,
+      "radical": 162
+    },
+    {
+      "character": "黄",
+      "schoolGrade": 2,
+      "strokeCount": 11,
+      "radical": 201
+    },
+    {
+      "character": "何",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 9
+    },
+    {
+      "character": "夏",
+      "schoolGrade": 2,
+      "strokeCount": 10,
+      "radical": 35
+    },
+    {
+      "character": "家",
+      "schoolGrade": 2,
+      "strokeCount": 10,
+      "radical": 40
+    },
+    {
+      "character": "科",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 115
+    },
+    {
+      "character": "歌",
+      "schoolGrade": 2,
+      "strokeCount": 14,
+      "radical": 76
+    },
+    {
+      "character": "画",
+      "schoolGrade": 2,
+      "strokeCount": 8,
+      "radical": 102
+    },
+    {
+      "character": "会",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 9
+    },
+    {
+      "character": "回",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 31
+    },
+    {
+      "character": "海",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 85
+    },
+    {
+      "character": "絵",
+      "schoolGrade": 2,
+      "strokeCount": 12,
+      "radical": 120
+    },
+    {
+      "character": "外",
+      "schoolGrade": 2,
+      "strokeCount": 5,
+      "radical": 36
+    },
+    {
+      "character": "角",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 148
+    },
+    {
+      "character": "楽",
+      "schoolGrade": 2,
+      "strokeCount": 13,
+      "radical": 75
+    },
+    {
+      "character": "活",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 85
+    },
+    {
+      "character": "間",
+      "schoolGrade": 2,
+      "strokeCount": 12,
+      "radical": 169
+    },
+    {
+      "character": "丸",
+      "schoolGrade": 2,
+      "strokeCount": 3,
+      "radical": 3
+    },
+    {
+      "character": "岩",
+      "schoolGrade": 2,
+      "strokeCount": 8,
+      "radical": 46
+    },
+    {
+      "character": "顔",
+      "schoolGrade": 2,
+      "strokeCount": 18,
+      "radical": 181
+    },
+    {
+      "character": "帰",
+      "schoolGrade": 2,
+      "strokeCount": 10,
+      "radical": 18
+    },
+    {
+      "character": "汽",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 85
+    },
+    {
+      "character": "記",
+      "schoolGrade": 2,
+      "strokeCount": 10,
+      "radical": 149
+    },
+    {
+      "character": "弓",
+      "schoolGrade": 2,
+      "strokeCount": 3,
+      "radical": 57
+    },
+    {
+      "character": "牛",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 93
+    },
+    {
+      "character": "魚",
+      "schoolGrade": 2,
+      "strokeCount": 11,
+      "radical": 195
+    },
+    {
+      "character": "京",
+      "schoolGrade": 2,
+      "strokeCount": 8,
+      "radical": 8
+    },
+    {
+      "character": "強",
+      "schoolGrade": 2,
+      "strokeCount": 11,
+      "radical": 57
+    },
+    {
+      "character": "教",
+      "schoolGrade": 2,
+      "strokeCount": 11,
+      "radical": 66
+    },
+    {
+      "character": "近",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 162
+    },
+    {
+      "character": "兄",
+      "schoolGrade": 2,
+      "strokeCount": 5,
+      "radical": 10
+    },
+    {
+      "character": "形",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 59
+    },
+    {
+      "character": "計",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 149
+    },
+    {
+      "character": "元",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 10
+    },
+    {
+      "character": "原",
+      "schoolGrade": 2,
+      "strokeCount": 10,
+      "radical": 27
+    },
+    {
+      "character": "言",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 149
+    },
+    {
+      "character": "古",
+      "schoolGrade": 2,
+      "strokeCount": 5,
+      "radical": 30
+    },
+    {
+      "character": "戸",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 63
+    },
+    {
+      "character": "午",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 24
+    },
+    {
+      "character": "後",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 60
+    },
+    {
+      "character": "語",
+      "schoolGrade": 2,
+      "strokeCount": 14,
+      "radical": 149
+    },
+    {
+      "character": "交",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 8
+    },
+    {
+      "character": "光",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 10
+    },
+    {
+      "character": "公",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 12
+    },
+    {
+      "character": "工",
+      "schoolGrade": 2,
+      "strokeCount": 3,
+      "radical": 48
+    },
+    {
+      "character": "広",
+      "schoolGrade": 2,
+      "strokeCount": 5,
+      "radical": 53
+    },
+    {
+      "character": "考",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 125
+    },
+    {
+      "character": "行",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 144
+    },
+    {
+      "character": "高",
+      "schoolGrade": 2,
+      "strokeCount": 10,
+      "radical": 189
+    },
+    {
+      "character": "合",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 30
+    },
+    {
+      "character": "国",
+      "schoolGrade": 2,
+      "strokeCount": 8,
+      "radical": 31
+    },
+    {
+      "character": "黒",
+      "schoolGrade": 2,
+      "strokeCount": 11,
+      "radical": 203
+    },
+    {
+      "character": "今",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 9
+    },
+    {
+      "character": "才",
+      "schoolGrade": 2,
+      "strokeCount": 3,
+      "radical": 64
+    },
+    {
+      "character": "細",
+      "schoolGrade": 2,
+      "strokeCount": 11,
+      "radical": 120
+    },
+    {
+      "character": "作",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 9
+    },
+    {
+      "character": "算",
+      "schoolGrade": 2,
+      "strokeCount": 14,
+      "radical": 118
+    },
+    {
+      "character": "姉",
+      "schoolGrade": 2,
+      "strokeCount": 8,
+      "radical": 38
+    },
+    {
+      "character": "市",
+      "schoolGrade": 2,
+      "strokeCount": 5,
+      "radical": 50
+    },
+    {
+      "character": "思",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 61
+    },
+    {
+      "character": "止",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 77
+    },
+    {
+      "character": "紙",
+      "schoolGrade": 2,
+      "strokeCount": 10,
+      "radical": 120
+    },
+    {
+      "character": "寺",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 41
+    },
+    {
+      "character": "時",
+      "schoolGrade": 2,
+      "strokeCount": 10,
+      "radical": 72
+    },
+    {
+      "character": "自",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 132
+    },
+    {
+      "character": "室",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 40
+    },
+    {
+      "character": "社",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 113
+    },
+    {
+      "character": "弱",
+      "schoolGrade": 2,
+      "strokeCount": 10,
+      "radical": 57
+    },
+    {
+      "character": "首",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 185
+    },
+    {
+      "character": "秋",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 115
+    },
+    {
+      "character": "週",
+      "schoolGrade": 2,
+      "strokeCount": 11,
+      "radical": 162
+    },
+    {
+      "character": "春",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 72
+    },
+    {
+      "character": "書",
+      "schoolGrade": 2,
+      "strokeCount": 10,
+      "radical": 73
+    },
+    {
+      "character": "少",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 42
+    },
+    {
+      "character": "場",
+      "schoolGrade": 2,
+      "strokeCount": 12,
+      "radical": 32
+    },
+    {
+      "character": "色",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 139
+    },
+    {
+      "character": "食",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 184
+    },
+    {
+      "character": "心",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 61
+    },
+    {
+      "character": "新",
+      "schoolGrade": 2,
+      "strokeCount": 13,
+      "radical": 69
+    },
+    {
+      "character": "親",
+      "schoolGrade": 2,
+      "strokeCount": 16,
+      "radical": 147
+    },
+    {
+      "character": "図",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 31
+    },
+    {
+      "character": "数",
+      "schoolGrade": 2,
+      "strokeCount": 13,
+      "radical": 66
+    },
+    {
+      "character": "星",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 72
+    },
+    {
+      "character": "晴",
+      "schoolGrade": 2,
+      "strokeCount": 12,
+      "radical": 72
+    },
+    {
+      "character": "声",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 33
+    },
+    {
+      "character": "西",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 146
+    },
+    {
+      "character": "切",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 18
+    },
+    {
+      "character": "雪",
+      "schoolGrade": 2,
+      "strokeCount": 11,
+      "radical": 173
+    },
+    {
+      "character": "線",
+      "schoolGrade": 2,
+      "strokeCount": 15,
+      "radical": 120
+    },
+    {
+      "character": "船",
+      "schoolGrade": 2,
+      "strokeCount": 11,
+      "radical": 137
+    },
+    {
+      "character": "前",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 18
+    },
+    {
+      "character": "組",
+      "schoolGrade": 2,
+      "strokeCount": 11,
+      "radical": 120
+    },
+    {
+      "character": "走",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 156
+    },
+    {
+      "character": "多",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 36
+    },
+    {
+      "character": "太",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 37
+    },
+    {
+      "character": "体",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 9
+    },
+    {
+      "character": "台",
+      "schoolGrade": 2,
+      "strokeCount": 5,
+      "radical": 30
+    },
+    {
+      "character": "谷",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 150
+    },
+    {
+      "character": "知",
+      "schoolGrade": 2,
+      "strokeCount": 8,
+      "radical": 111
+    },
+    {
+      "character": "地",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 32
+    },
+    {
+      "character": "池",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 85
+    },
+    {
+      "character": "茶",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 140
+    },
+    {
+      "character": "昼",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 72
+    },
+    {
+      "character": "朝",
+      "schoolGrade": 2,
+      "strokeCount": 12,
+      "radical": 74
+    },
+    {
+      "character": "長",
+      "schoolGrade": 2,
+      "strokeCount": 8,
+      "radical": 168
+    },
+    {
+      "character": "鳥",
+      "schoolGrade": 2,
+      "strokeCount": 11,
+      "radical": 196
+    },
+    {
+      "character": "直",
+      "schoolGrade": 2,
+      "strokeCount": 8,
+      "radical": 109
+    },
+    {
+      "character": "通",
+      "schoolGrade": 2,
+      "strokeCount": 10,
+      "radical": 162
+    },
+    {
+      "character": "弟",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 57
+    },
+    {
+      "character": "店",
+      "schoolGrade": 2,
+      "strokeCount": 8,
+      "radical": 53
+    },
+    {
+      "character": "点",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 86
+    },
+    {
+      "character": "電",
+      "schoolGrade": 2,
+      "strokeCount": 13,
+      "radical": 173
+    },
+    {
+      "character": "冬",
+      "schoolGrade": 2,
+      "strokeCount": 5,
+      "radical": 15
+    },
+    {
+      "character": "刀",
+      "schoolGrade": 2,
+      "strokeCount": 2,
+      "radical": 18
+    },
+    {
+      "character": "東",
+      "schoolGrade": 2,
+      "strokeCount": 8,
+      "radical": 75
+    },
+    {
+      "character": "当",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 42
+    },
+    {
+      "character": "答",
+      "schoolGrade": 2,
+      "strokeCount": 12,
+      "radical": 118
+    },
+    {
+      "character": "頭",
+      "schoolGrade": 2,
+      "strokeCount": 16,
+      "radical": 181
+    },
+    {
+      "character": "同",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 30
+    },
+    {
+      "character": "道",
+      "schoolGrade": 2,
+      "strokeCount": 12,
+      "radical": 162
+    },
+    {
+      "character": "読",
+      "schoolGrade": 2,
+      "strokeCount": 14,
+      "radical": 149
+    },
+    {
+      "character": "内",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 13
+    },
+    {
+      "character": "南",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 24
+    },
+    {
+      "character": "肉",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 130
+    },
+    {
+      "character": "馬",
+      "schoolGrade": 2,
+      "strokeCount": 10,
+      "radical": 187
+    },
+    {
+      "character": "買",
+      "schoolGrade": 2,
+      "strokeCount": 12,
+      "radical": 154
+    },
+    {
+      "character": "売",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 33
+    },
+    {
+      "character": "麦",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 199
+    },
+    {
+      "character": "半",
+      "schoolGrade": 2,
+      "strokeCount": 5,
+      "radical": 24
+    },
+    {
+      "character": "番",
+      "schoolGrade": 2,
+      "strokeCount": 12,
+      "radical": 102
+    },
+    {
+      "character": "父",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 88
+    },
+    {
+      "character": "風",
+      "schoolGrade": 2,
+      "strokeCount": 9,
+      "radical": 182
+    },
+    {
+      "character": "分",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 18
+    },
+    {
+      "character": "聞",
+      "schoolGrade": 2,
+      "strokeCount": 14,
+      "radical": 128
+    },
+    {
+      "character": "米",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 119
+    },
+    {
+      "character": "歩",
+      "schoolGrade": 2,
+      "strokeCount": 8,
+      "radical": 77
+    },
+    {
+      "character": "母",
+      "schoolGrade": 2,
+      "strokeCount": 5,
+      "radical": 80
+    },
+    {
+      "character": "方",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 70
+    },
+    {
+      "character": "北",
+      "schoolGrade": 2,
+      "strokeCount": 5,
+      "radical": 21
+    },
+    {
+      "character": "妹",
+      "schoolGrade": 2,
+      "strokeCount": 8,
+      "radical": 38
+    },
+    {
+      "character": "毎",
+      "schoolGrade": 2,
+      "strokeCount": 6,
+      "radical": 80
+    },
+    {
+      "character": "万",
+      "schoolGrade": 2,
+      "strokeCount": 3,
+      "radical": 1
+    },
+    {
+      "character": "明",
+      "schoolGrade": 2,
+      "strokeCount": 8,
+      "radical": 72
+    },
+    {
+      "character": "鳴",
+      "schoolGrade": 2,
+      "strokeCount": 14,
+      "radical": 30
+    },
+    {
+      "character": "毛",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 82
+    },
+    {
+      "character": "門",
+      "schoolGrade": 2,
+      "strokeCount": 8,
+      "radical": 169
+    },
+    {
+      "character": "夜",
+      "schoolGrade": 2,
+      "strokeCount": 8,
+      "radical": 36
+    },
+    {
+      "character": "野",
+      "schoolGrade": 2,
+      "strokeCount": 11,
+      "radical": 166
+    },
+    {
+      "character": "矢",
+      "schoolGrade": 2,
+      "strokeCount": 5,
+      "radical": 111
+    },
+    {
+      "character": "友",
+      "schoolGrade": 2,
+      "strokeCount": 4,
+      "radical": 29
+    },
+    {
+      "character": "曜",
+      "schoolGrade": 2,
+      "strokeCount": 18,
+      "radical": 72
+    },
+    {
+      "character": "用",
+      "schoolGrade": 2,
+      "strokeCount": 5,
+      "radical": 101
+    },
+    {
+      "character": "来",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 75
+    },
+    {
+      "character": "理",
+      "schoolGrade": 2,
+      "strokeCount": 11,
+      "radical": 96
+    },
+    {
+      "character": "里",
+      "schoolGrade": 2,
+      "strokeCount": 7,
+      "radical": 166
+    },
+    {
+      "character": "話",
+      "schoolGrade": 2,
+      "strokeCount": 13,
+      "radical": 149
+    },
+    {
+      "character": "悪",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 61
+    },
+    {
+      "character": "安",
+      "schoolGrade": 3,
+      "strokeCount": 6,
+      "radical": 40
+    },
+    {
+      "character": "暗",
+      "schoolGrade": 3,
+      "strokeCount": 13,
+      "radical": 72
+    },
+    {
+      "character": "委",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 38
+    },
+    {
+      "character": "意",
+      "schoolGrade": 3,
+      "strokeCount": 13,
+      "radical": 61
+    },
+    {
+      "character": "医",
+      "schoolGrade": 3,
+      "strokeCount": 7,
+      "radical": 23
+    },
+    {
+      "character": "育",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 130
+    },
+    {
+      "character": "員",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 30
+    },
+    {
+      "character": "飲",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 184
+    },
+    {
+      "character": "院",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 170
+    },
+    {
+      "character": "運",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 162
+    },
+    {
+      "character": "泳",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 85
+    },
+    {
+      "character": "駅",
+      "schoolGrade": 3,
+      "strokeCount": 14,
+      "radical": 187
+    },
+    {
+      "character": "央",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 37
+    },
+    {
+      "character": "横",
+      "schoolGrade": 3,
+      "strokeCount": 15,
+      "radical": 75
+    },
+    {
+      "character": "屋",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 44
+    },
+    {
+      "character": "温",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 85
+    },
+    {
+      "character": "化",
+      "schoolGrade": 3,
+      "strokeCount": 4,
+      "radical": 21
+    },
+    {
+      "character": "荷",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 140
+    },
+    {
+      "character": "界",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 102
+    },
+    {
+      "character": "開",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 169
+    },
+    {
+      "character": "階",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 170
+    },
+    {
+      "character": "寒",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 40
+    },
+    {
+      "character": "感",
+      "schoolGrade": 3,
+      "strokeCount": 13,
+      "radical": 61
+    },
+    {
+      "character": "漢",
+      "schoolGrade": 3,
+      "strokeCount": 13,
+      "radical": 85
+    },
+    {
+      "character": "館",
+      "schoolGrade": 3,
+      "strokeCount": 16,
+      "radical": 184
+    },
+    {
+      "character": "岸",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 46
+    },
+    {
+      "character": "期",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 74
+    },
+    {
+      "character": "起",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 156
+    },
+    {
+      "character": "客",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 40
+    },
+    {
+      "character": "宮",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 40
+    },
+    {
+      "character": "急",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 61
+    },
+    {
+      "character": "球",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 96
+    },
+    {
+      "character": "究",
+      "schoolGrade": 3,
+      "strokeCount": 7,
+      "radical": 116
+    },
+    {
+      "character": "級",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 120
+    },
+    {
+      "character": "去",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 28
+    },
+    {
+      "character": "橋",
+      "schoolGrade": 3,
+      "strokeCount": 16,
+      "radical": 75
+    },
+    {
+      "character": "業",
+      "schoolGrade": 3,
+      "strokeCount": 13,
+      "radical": 75
+    },
+    {
+      "character": "局",
+      "schoolGrade": 3,
+      "strokeCount": 7,
+      "radical": 44
+    },
+    {
+      "character": "曲",
+      "schoolGrade": 3,
+      "strokeCount": 6,
+      "radical": 73
+    },
+    {
+      "character": "銀",
+      "schoolGrade": 3,
+      "strokeCount": 14,
+      "radical": 167
+    },
+    {
+      "character": "区",
+      "schoolGrade": 3,
+      "strokeCount": 4,
+      "radical": 23
+    },
+    {
+      "character": "苦",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 140
+    },
+    {
+      "character": "具",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 12
+    },
+    {
+      "character": "君",
+      "schoolGrade": 3,
+      "strokeCount": 7,
+      "radical": 30
+    },
+    {
+      "character": "係",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 9
+    },
+    {
+      "character": "軽",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 159
+    },
+    {
+      "character": "決",
+      "schoolGrade": 3,
+      "strokeCount": 7,
+      "radical": 85
+    },
+    {
+      "character": "血",
+      "schoolGrade": 3,
+      "strokeCount": 6,
+      "radical": 143
+    },
+    {
+      "character": "研",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 112
+    },
+    {
+      "character": "県",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 109
+    },
+    {
+      "character": "庫",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 53
+    },
+    {
+      "character": "湖",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 85
+    },
+    {
+      "character": "向",
+      "schoolGrade": 3,
+      "strokeCount": 6,
+      "radical": 30
+    },
+    {
+      "character": "幸",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 51
+    },
+    {
+      "character": "港",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 85
+    },
+    {
+      "character": "号",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 30
+    },
+    {
+      "character": "根",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 75
+    },
+    {
+      "character": "祭",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 113
+    },
+    {
+      "character": "坂",
+      "schoolGrade": 3,
+      "strokeCount": 7,
+      "radical": 32
+    },
+    {
+      "character": "皿",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 108
+    },
+    {
+      "character": "仕",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 9
+    },
+    {
+      "character": "使",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 9
+    },
+    {
+      "character": "始",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 38
+    },
+    {
+      "character": "指",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 64
+    },
+    {
+      "character": "死",
+      "schoolGrade": 3,
+      "strokeCount": 6,
+      "radical": 78
+    },
+    {
+      "character": "詩",
+      "schoolGrade": 3,
+      "strokeCount": 13,
+      "radical": 149
+    },
+    {
+      "character": "歯",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 211
+    },
+    {
+      "character": "事",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 6
+    },
+    {
+      "character": "持",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 64
+    },
+    {
+      "character": "次",
+      "schoolGrade": 3,
+      "strokeCount": 6,
+      "radical": 76
+    },
+    {
+      "character": "式",
+      "schoolGrade": 3,
+      "strokeCount": 6,
+      "radical": 56
+    },
+    {
+      "character": "実",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 40
+    },
+    {
+      "character": "写",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 14
+    },
+    {
+      "character": "者",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 125
+    },
+    {
+      "character": "主",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 3
+    },
+    {
+      "character": "取",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 29
+    },
+    {
+      "character": "守",
+      "schoolGrade": 3,
+      "strokeCount": 6,
+      "radical": 40
+    },
+    {
+      "character": "酒",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 85
+    },
+    {
+      "character": "受",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 29
+    },
+    {
+      "character": "州",
+      "schoolGrade": 3,
+      "strokeCount": 6,
+      "radical": 2
+    },
+    {
+      "character": "拾",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 64
+    },
+    {
+      "character": "終",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 120
+    },
+    {
+      "character": "習",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 124
+    },
+    {
+      "character": "集",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 172
+    },
+    {
+      "character": "住",
+      "schoolGrade": 3,
+      "strokeCount": 7,
+      "radical": 9
+    },
+    {
+      "character": "重",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 166
+    },
+    {
+      "character": "宿",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 40
+    },
+    {
+      "character": "所",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 63
+    },
+    {
+      "character": "暑",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 72
+    },
+    {
+      "character": "助",
+      "schoolGrade": 3,
+      "strokeCount": 7,
+      "radical": 19
+    },
+    {
+      "character": "勝",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 19
+    },
+    {
+      "character": "商",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 30
+    },
+    {
+      "character": "昭",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 72
+    },
+    {
+      "character": "消",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 85
+    },
+    {
+      "character": "章",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 117
+    },
+    {
+      "character": "乗",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 4
+    },
+    {
+      "character": "植",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 75
+    },
+    {
+      "character": "深",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 85
+    },
+    {
+      "character": "申",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 102
+    },
+    {
+      "character": "真",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 109
+    },
+    {
+      "character": "神",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 113
+    },
+    {
+      "character": "身",
+      "schoolGrade": 3,
+      "strokeCount": 7,
+      "radical": 158
+    },
+    {
+      "character": "進",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 162
+    },
+    {
+      "character": "世",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 1
+    },
+    {
+      "character": "整",
+      "schoolGrade": 3,
+      "strokeCount": 16,
+      "radical": 66
+    },
+    {
+      "character": "昔",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 72
+    },
+    {
+      "character": "全",
+      "schoolGrade": 3,
+      "strokeCount": 6,
+      "radical": 11
+    },
+    {
+      "character": "想",
+      "schoolGrade": 3,
+      "strokeCount": 13,
+      "radical": 61
+    },
+    {
+      "character": "相",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 109
+    },
+    {
+      "character": "送",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 162
+    },
+    {
+      "character": "息",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 61
+    },
+    {
+      "character": "速",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 162
+    },
+    {
+      "character": "族",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 70
+    },
+    {
+      "character": "他",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 9
+    },
+    {
+      "character": "打",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 64
+    },
+    {
+      "character": "対",
+      "schoolGrade": 3,
+      "strokeCount": 7,
+      "radical": 41
+    },
+    {
+      "character": "待",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 60
+    },
+    {
+      "character": "代",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 9
+    },
+    {
+      "character": "第",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 118
+    },
+    {
+      "character": "題",
+      "schoolGrade": 3,
+      "strokeCount": 18,
+      "radical": 181
+    },
+    {
+      "character": "炭",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 86
+    },
+    {
+      "character": "短",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 111
+    },
+    {
+      "character": "談",
+      "schoolGrade": 3,
+      "strokeCount": 15,
+      "radical": 149
+    },
+    {
+      "character": "着",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 123
+    },
+    {
+      "character": "柱",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 75
+    },
+    {
+      "character": "注",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 85
+    },
+    {
+      "character": "丁",
+      "schoolGrade": 3,
+      "strokeCount": 2,
+      "radical": 1
+    },
+    {
+      "character": "帳",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 50
+    },
+    {
+      "character": "調",
+      "schoolGrade": 3,
+      "strokeCount": 15,
+      "radical": 149
+    },
+    {
+      "character": "追",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 162
+    },
+    {
+      "character": "定",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 40
+    },
+    {
+      "character": "庭",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 53
+    },
+    {
+      "character": "笛",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 118
+    },
+    {
+      "character": "鉄",
+      "schoolGrade": 3,
+      "strokeCount": 13,
+      "radical": 167
+    },
+    {
+      "character": "転",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 159
+    },
+    {
+      "character": "登",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 105
+    },
+    {
+      "character": "都",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 163
+    },
+    {
+      "character": "度",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 53
+    },
+    {
+      "character": "島",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 46
+    },
+    {
+      "character": "投",
+      "schoolGrade": 3,
+      "strokeCount": 7,
+      "radical": 64
+    },
+    {
+      "character": "湯",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 85
+    },
+    {
+      "character": "等",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 118
+    },
+    {
+      "character": "豆",
+      "schoolGrade": 3,
+      "strokeCount": 7,
+      "radical": 151
+    },
+    {
+      "character": "動",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 19
+    },
+    {
+      "character": "童",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 117
+    },
+    {
+      "character": "農",
+      "schoolGrade": 3,
+      "strokeCount": 13,
+      "radical": 161
+    },
+    {
+      "character": "波",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 85
+    },
+    {
+      "character": "配",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 164
+    },
+    {
+      "character": "倍",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 9
+    },
+    {
+      "character": "箱",
+      "schoolGrade": 3,
+      "strokeCount": 15,
+      "radical": 118
+    },
+    {
+      "character": "畑",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 102
+    },
+    {
+      "character": "発",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 105
+    },
+    {
+      "character": "反",
+      "schoolGrade": 3,
+      "strokeCount": 4,
+      "radical": 29
+    },
+    {
+      "character": "板",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 75
+    },
+    {
+      "character": "悲",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 61
+    },
+    {
+      "character": "皮",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 107
+    },
+    {
+      "character": "美",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 123
+    },
+    {
+      "character": "鼻",
+      "schoolGrade": 3,
+      "strokeCount": 14,
+      "radical": 209
+    },
+    {
+      "character": "筆",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 118
+    },
+    {
+      "character": "氷",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 85
+    },
+    {
+      "character": "表",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 145
+    },
+    {
+      "character": "病",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 104
+    },
+    {
+      "character": "秒",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 115
+    },
+    {
+      "character": "品",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 30
+    },
+    {
+      "character": "負",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 154
+    },
+    {
+      "character": "部",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 163
+    },
+    {
+      "character": "服",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 74
+    },
+    {
+      "character": "福",
+      "schoolGrade": 3,
+      "strokeCount": 13,
+      "radical": 113
+    },
+    {
+      "character": "物",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 93
+    },
+    {
+      "character": "平",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 51
+    },
+    {
+      "character": "返",
+      "schoolGrade": 3,
+      "strokeCount": 7,
+      "radical": 162
+    },
+    {
+      "character": "勉",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 19
+    },
+    {
+      "character": "放",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 66
+    },
+    {
+      "character": "味",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 30
+    },
+    {
+      "character": "命",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 30
+    },
+    {
+      "character": "面",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 176
+    },
+    {
+      "character": "問",
+      "schoolGrade": 3,
+      "strokeCount": 11,
+      "radical": 30
+    },
+    {
+      "character": "役",
+      "schoolGrade": 3,
+      "strokeCount": 7,
+      "radical": 60
+    },
+    {
+      "character": "薬",
+      "schoolGrade": 3,
+      "strokeCount": 16,
+      "radical": 140
+    },
+    {
+      "character": "油",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 85
+    },
+    {
+      "character": "有",
+      "schoolGrade": 3,
+      "strokeCount": 6,
+      "radical": 74
+    },
+    {
+      "character": "由",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 102
+    },
+    {
+      "character": "遊",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 162
+    },
+    {
+      "character": "予",
+      "schoolGrade": 3,
+      "strokeCount": 4,
+      "radical": 6
+    },
+    {
+      "character": "様",
+      "schoolGrade": 3,
+      "strokeCount": 14,
+      "radical": 75
+    },
+    {
+      "character": "洋",
+      "schoolGrade": 3,
+      "strokeCount": 9,
+      "radical": 85
+    },
+    {
+      "character": "羊",
+      "schoolGrade": 3,
+      "strokeCount": 6,
+      "radical": 123
+    },
+    {
+      "character": "葉",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 140
+    },
+    {
+      "character": "陽",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 170
+    },
+    {
+      "character": "落",
+      "schoolGrade": 3,
+      "strokeCount": 12,
+      "radical": 140
+    },
+    {
+      "character": "流",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 85
+    },
+    {
+      "character": "旅",
+      "schoolGrade": 3,
+      "strokeCount": 10,
+      "radical": 70
+    },
+    {
+      "character": "両",
+      "schoolGrade": 3,
+      "strokeCount": 6,
+      "radical": 1
+    },
+    {
+      "character": "緑",
+      "schoolGrade": 3,
+      "strokeCount": 14,
+      "radical": 120
+    },
+    {
+      "character": "礼",
+      "schoolGrade": 3,
+      "strokeCount": 5,
+      "radical": 113
+    },
+    {
+      "character": "列",
+      "schoolGrade": 3,
+      "strokeCount": 6,
+      "radical": 18
+    },
+    {
+      "character": "練",
+      "schoolGrade": 3,
+      "strokeCount": 14,
+      "radical": 120
+    },
+    {
+      "character": "路",
+      "schoolGrade": 3,
+      "strokeCount": 13,
+      "radical": 157
+    },
+    {
+      "character": "和",
+      "schoolGrade": 3,
+      "strokeCount": 8,
+      "radical": 30
+    },
+    {
+      "character": "愛",
+      "schoolGrade": 4,
+      "strokeCount": 13,
+      "radical": 61
+    },
+    {
+      "character": "案",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 75
+    },
+    {
+      "character": "以",
+      "schoolGrade": 4,
+      "strokeCount": 5,
+      "radical": 9
+    },
+    {
+      "character": "位",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 9
+    },
+    {
+      "character": "衣",
+      "schoolGrade": 4,
+      "strokeCount": 6,
+      "radical": 145
+    },
+    {
+      "character": "井",
+      "schoolGrade": 4,
+      "strokeCount": 4,
+      "radical": 7
+    },
+    {
+      "character": "茨",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 140
+    },
+    {
+      "character": "印",
+      "schoolGrade": 4,
+      "strokeCount": 6,
+      "radical": 26
+    },
+    {
+      "character": "栄",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 75
+    },
+    {
+      "character": "英",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 140
+    },
+    {
+      "character": "塩",
+      "schoolGrade": 4,
+      "strokeCount": 13,
+      "radical": 32
+    },
+    {
+      "character": "岡",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 46
+    },
+    {
+      "character": "沖",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 85
+    },
+    {
+      "character": "億",
+      "schoolGrade": 4,
+      "strokeCount": 15,
+      "radical": 9
+    },
+    {
+      "character": "加",
+      "schoolGrade": 4,
+      "strokeCount": 5,
+      "radical": 19
+    },
+    {
+      "character": "果",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 75
+    },
+    {
+      "character": "課",
+      "schoolGrade": 4,
+      "strokeCount": 15,
+      "radical": 149
+    },
+    {
+      "character": "貨",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 154
+    },
+    {
+      "character": "芽",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 140
+    },
+    {
+      "character": "賀",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 154
+    },
+    {
+      "character": "改",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 49
+    },
+    {
+      "character": "械",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 75
+    },
+    {
+      "character": "害",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 40
+    },
+    {
+      "character": "街",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 144
+    },
+    {
+      "character": "各",
+      "schoolGrade": 4,
+      "strokeCount": 6,
+      "radical": 30
+    },
+    {
+      "character": "覚",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 147
+    },
+    {
+      "character": "潟",
+      "schoolGrade": 4,
+      "strokeCount": 15,
+      "radical": 85
+    },
+    {
+      "character": "完",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 40
+    },
+    {
+      "character": "官",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 40
+    },
+    {
+      "character": "管",
+      "schoolGrade": 4,
+      "strokeCount": 14,
+      "radical": 118
+    },
+    {
+      "character": "観",
+      "schoolGrade": 4,
+      "strokeCount": 18,
+      "radical": 147
+    },
+    {
+      "character": "関",
+      "schoolGrade": 4,
+      "strokeCount": 14,
+      "radical": 169
+    },
+    {
+      "character": "願",
+      "schoolGrade": 4,
+      "strokeCount": 19,
+      "radical": 181
+    },
+    {
+      "character": "器",
+      "schoolGrade": 4,
+      "strokeCount": 15,
+      "radical": 30
+    },
+    {
+      "character": "岐",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 46
+    },
+    {
+      "character": "希",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 50
+    },
+    {
+      "character": "旗",
+      "schoolGrade": 4,
+      "strokeCount": 14,
+      "radical": 70
+    },
+    {
+      "character": "機",
+      "schoolGrade": 4,
+      "strokeCount": 16,
+      "radical": 75
+    },
+    {
+      "character": "季",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 39
+    },
+    {
+      "character": "議",
+      "schoolGrade": 4,
+      "strokeCount": 20,
+      "radical": 149
+    },
+    {
+      "character": "求",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 85
+    },
+    {
+      "character": "泣",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 85
+    },
+    {
+      "character": "給",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 120
+    },
+    {
+      "character": "挙",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 64
+    },
+    {
+      "character": "漁",
+      "schoolGrade": 4,
+      "strokeCount": 14,
+      "radical": 85
+    },
+    {
+      "character": "競",
+      "schoolGrade": 4,
+      "strokeCount": 20,
+      "radical": 117
+    },
+    {
+      "character": "共",
+      "schoolGrade": 4,
+      "strokeCount": 6,
+      "radical": 12
+    },
+    {
+      "character": "協",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 24
+    },
+    {
+      "character": "鏡",
+      "schoolGrade": 4,
+      "strokeCount": 19,
+      "radical": 167
+    },
+    {
+      "character": "極",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 75
+    },
+    {
+      "character": "熊",
+      "schoolGrade": 4,
+      "strokeCount": 14,
+      "radical": 86
+    },
+    {
+      "character": "訓",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 149
+    },
+    {
+      "character": "群",
+      "schoolGrade": 4,
+      "strokeCount": 13,
+      "radical": 123
+    },
+    {
+      "character": "軍",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 159
+    },
+    {
+      "character": "郡",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 163
+    },
+    {
+      "character": "径",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 60
+    },
+    {
+      "character": "景",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 72
+    },
+    {
+      "character": "芸",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 140
+    },
+    {
+      "character": "欠",
+      "schoolGrade": 4,
+      "strokeCount": 4,
+      "radical": 76
+    },
+    {
+      "character": "結",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 120
+    },
+    {
+      "character": "健",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 9
+    },
+    {
+      "character": "建",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 54
+    },
+    {
+      "character": "験",
+      "schoolGrade": 4,
+      "strokeCount": 18,
+      "radical": 187
+    },
+    {
+      "character": "固",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 31
+    },
+    {
+      "character": "候",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 9
+    },
+    {
+      "character": "功",
+      "schoolGrade": 4,
+      "strokeCount": 5,
+      "radical": 19
+    },
+    {
+      "character": "好",
+      "schoolGrade": 4,
+      "strokeCount": 6,
+      "radical": 38
+    },
+    {
+      "character": "康",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 53
+    },
+    {
+      "character": "香",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 186
+    },
+    {
+      "character": "佐",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 9
+    },
+    {
+      "character": "差",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 48
+    },
+    {
+      "character": "最",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 73
+    },
+    {
+      "character": "菜",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 140
+    },
+    {
+      "character": "材",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 75
+    },
+    {
+      "character": "阪",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 170
+    },
+    {
+      "character": "崎",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 46
+    },
+    {
+      "character": "埼",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 32
+    },
+    {
+      "character": "昨",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 72
+    },
+    {
+      "character": "刷",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 18
+    },
+    {
+      "character": "察",
+      "schoolGrade": 4,
+      "strokeCount": 14,
+      "radical": 40
+    },
+    {
+      "character": "札",
+      "schoolGrade": 4,
+      "strokeCount": 5,
+      "radical": 75
+    },
+    {
+      "character": "参",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 28
+    },
+    {
+      "character": "散",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 66
+    },
+    {
+      "character": "産",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 100
+    },
+    {
+      "character": "残",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 78
+    },
+    {
+      "character": "司",
+      "schoolGrade": 4,
+      "strokeCount": 5,
+      "radical": 30
+    },
+    {
+      "character": "氏",
+      "schoolGrade": 4,
+      "strokeCount": 4,
+      "radical": 83
+    },
+    {
+      "character": "試",
+      "schoolGrade": 4,
+      "strokeCount": 13,
+      "radical": 149
+    },
+    {
+      "character": "児",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 10
+    },
+    {
+      "character": "滋",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 85
+    },
+    {
+      "character": "治",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 85
+    },
+    {
+      "character": "辞",
+      "schoolGrade": 4,
+      "strokeCount": 13,
+      "radical": 160
+    },
+    {
+      "character": "鹿",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 198
+    },
+    {
+      "character": "失",
+      "schoolGrade": 4,
+      "strokeCount": 5,
+      "radical": 37
+    },
+    {
+      "character": "借",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 9
+    },
+    {
+      "character": "種",
+      "schoolGrade": 4,
+      "strokeCount": 14,
+      "radical": 115
+    },
+    {
+      "character": "周",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 30
+    },
+    {
+      "character": "祝",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 113
+    },
+    {
+      "character": "順",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 47
+    },
+    {
+      "character": "初",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 18
+    },
+    {
+      "character": "唱",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 30
+    },
+    {
+      "character": "松",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 75
+    },
+    {
+      "character": "焼",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 86
+    },
+    {
+      "character": "照",
+      "schoolGrade": 4,
+      "strokeCount": 13,
+      "radical": 86
+    },
+    {
+      "character": "省",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 109
+    },
+    {
+      "character": "笑",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 118
+    },
+    {
+      "character": "城",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 32
+    },
+    {
+      "character": "信",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 9
+    },
+    {
+      "character": "臣",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 131
+    },
+    {
+      "character": "成",
+      "schoolGrade": 4,
+      "strokeCount": 6,
+      "radical": 62
+    },
+    {
+      "character": "清",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 85
+    },
+    {
+      "character": "静",
+      "schoolGrade": 4,
+      "strokeCount": 14,
+      "radical": 174
+    },
+    {
+      "character": "席",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 50
+    },
+    {
+      "character": "積",
+      "schoolGrade": 4,
+      "strokeCount": 16,
+      "radical": 115
+    },
+    {
+      "character": "折",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 64
+    },
+    {
+      "character": "節",
+      "schoolGrade": 4,
+      "strokeCount": 13,
+      "radical": 118
+    },
+    {
+      "character": "説",
+      "schoolGrade": 4,
+      "strokeCount": 14,
+      "radical": 149
+    },
+    {
+      "character": "戦",
+      "schoolGrade": 4,
+      "strokeCount": 13,
+      "radical": 62
+    },
+    {
+      "character": "浅",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 85
+    },
+    {
+      "character": "選",
+      "schoolGrade": 4,
+      "strokeCount": 15,
+      "radical": 162
+    },
+    {
+      "character": "然",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 86
+    },
+    {
+      "character": "倉",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 9
+    },
+    {
+      "character": "巣",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 75
+    },
+    {
+      "character": "争",
+      "schoolGrade": 4,
+      "strokeCount": 6,
+      "radical": 87
+    },
+    {
+      "character": "側",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 9
+    },
+    {
+      "character": "束",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 75
+    },
+    {
+      "character": "続",
+      "schoolGrade": 4,
+      "strokeCount": 13,
+      "radical": 120
+    },
+    {
+      "character": "卒",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 24
+    },
+    {
+      "character": "孫",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 39
+    },
+    {
+      "character": "帯",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 50
+    },
+    {
+      "character": "隊",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 170
+    },
+    {
+      "character": "達",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 162
+    },
+    {
+      "character": "単",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 30
+    },
+    {
+      "character": "置",
+      "schoolGrade": 4,
+      "strokeCount": 13,
+      "radical": 122
+    },
+    {
+      "character": "仲",
+      "schoolGrade": 4,
+      "strokeCount": 6,
+      "radical": 9
+    },
+    {
+      "character": "兆",
+      "schoolGrade": 4,
+      "strokeCount": 6,
+      "radical": 10
+    },
+    {
+      "character": "低",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 9
+    },
+    {
+      "character": "底",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 53
+    },
+    {
+      "character": "的",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 106
+    },
+    {
+      "character": "典",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 12
+    },
+    {
+      "character": "伝",
+      "schoolGrade": 4,
+      "strokeCount": 6,
+      "radical": 9
+    },
+    {
+      "character": "徒",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 60
+    },
+    {
+      "character": "努",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 19
+    },
+    {
+      "character": "灯",
+      "schoolGrade": 4,
+      "strokeCount": 6,
+      "radical": 86
+    },
+    {
+      "character": "働",
+      "schoolGrade": 4,
+      "strokeCount": 13,
+      "radical": 9
+    },
+    {
+      "character": "徳",
+      "schoolGrade": 4,
+      "strokeCount": 14,
+      "radical": 60
+    },
+    {
+      "character": "特",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 93
+    },
+    {
+      "character": "栃",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 75
+    },
+    {
+      "character": "奈",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 37
+    },
+    {
+      "character": "縄",
+      "schoolGrade": 4,
+      "strokeCount": 15,
+      "radical": 120
+    },
+    {
+      "character": "熱",
+      "schoolGrade": 4,
+      "strokeCount": 15,
+      "radical": 86
+    },
+    {
+      "character": "念",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 61
+    },
+    {
+      "character": "敗",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 66
+    },
+    {
+      "character": "梅",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 75
+    },
+    {
+      "character": "博",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 24
+    },
+    {
+      "character": "飯",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 184
+    },
+    {
+      "character": "飛",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 183
+    },
+    {
+      "character": "必",
+      "schoolGrade": 4,
+      "strokeCount": 5,
+      "radical": 61
+    },
+    {
+      "character": "媛",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 38
+    },
+    {
+      "character": "標",
+      "schoolGrade": 4,
+      "strokeCount": 15,
+      "radical": 75
+    },
+    {
+      "character": "票",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 113
+    },
+    {
+      "character": "不",
+      "schoolGrade": 4,
+      "strokeCount": 4,
+      "radical": 1
+    },
+    {
+      "character": "付",
+      "schoolGrade": 4,
+      "strokeCount": 5,
+      "radical": 9
+    },
+    {
+      "character": "夫",
+      "schoolGrade": 4,
+      "strokeCount": 4,
+      "radical": 37
+    },
+    {
+      "character": "富",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 40
+    },
+    {
+      "character": "府",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 53
+    },
+    {
+      "character": "阜",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 170
+    },
+    {
+      "character": "副",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 18
+    },
+    {
+      "character": "兵",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 12
+    },
+    {
+      "character": "別",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 18
+    },
+    {
+      "character": "変",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 34
+    },
+    {
+      "character": "辺",
+      "schoolGrade": 4,
+      "strokeCount": 5,
+      "radical": 162
+    },
+    {
+      "character": "便",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 9
+    },
+    {
+      "character": "包",
+      "schoolGrade": 4,
+      "strokeCount": 5,
+      "radical": 20
+    },
+    {
+      "character": "法",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 85
+    },
+    {
+      "character": "望",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 74
+    },
+    {
+      "character": "牧",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 93
+    },
+    {
+      "character": "末",
+      "schoolGrade": 4,
+      "strokeCount": 5,
+      "radical": 75
+    },
+    {
+      "character": "満",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 85
+    },
+    {
+      "character": "未",
+      "schoolGrade": 4,
+      "strokeCount": 5,
+      "radical": 75
+    },
+    {
+      "character": "民",
+      "schoolGrade": 4,
+      "strokeCount": 5,
+      "radical": 83
+    },
+    {
+      "character": "無",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 86
+    },
+    {
+      "character": "約",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 120
+    },
+    {
+      "character": "勇",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 19
+    },
+    {
+      "character": "要",
+      "schoolGrade": 4,
+      "strokeCount": 9,
+      "radical": 146
+    },
+    {
+      "character": "養",
+      "schoolGrade": 4,
+      "strokeCount": 15,
+      "radical": 184
+    },
+    {
+      "character": "浴",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 85
+    },
+    {
+      "character": "利",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 18
+    },
+    {
+      "character": "梨",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 75
+    },
+    {
+      "character": "陸",
+      "schoolGrade": 4,
+      "strokeCount": 11,
+      "radical": 170
+    },
+    {
+      "character": "料",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 68
+    },
+    {
+      "character": "良",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 138
+    },
+    {
+      "character": "量",
+      "schoolGrade": 4,
+      "strokeCount": 12,
+      "radical": 166
+    },
+    {
+      "character": "輪",
+      "schoolGrade": 4,
+      "strokeCount": 15,
+      "radical": 159
+    },
+    {
+      "character": "類",
+      "schoolGrade": 4,
+      "strokeCount": 18,
+      "radical": 181
+    },
+    {
+      "character": "令",
+      "schoolGrade": 4,
+      "strokeCount": 5,
+      "radical": 9
+    },
+    {
+      "character": "例",
+      "schoolGrade": 4,
+      "strokeCount": 8,
+      "radical": 9
+    },
+    {
+      "character": "冷",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 15
+    },
+    {
+      "character": "連",
+      "schoolGrade": 4,
+      "strokeCount": 10,
+      "radical": 162
+    },
+    {
+      "character": "労",
+      "schoolGrade": 4,
+      "strokeCount": 7,
+      "radical": 19
+    },
+    {
+      "character": "老",
+      "schoolGrade": 4,
+      "strokeCount": 6,
+      "radical": 125
+    },
+    {
+      "character": "録",
+      "schoolGrade": 4,
+      "strokeCount": 16,
+      "radical": 167
+    },
+    {
+      "character": "圧",
+      "schoolGrade": 5,
+      "strokeCount": 5,
+      "radical": 32
+    },
+    {
+      "character": "囲",
+      "schoolGrade": 5,
+      "strokeCount": 7,
+      "radical": 31
+    },
+    {
+      "character": "易",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 72
+    },
+    {
+      "character": "移",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 115
+    },
+    {
+      "character": "因",
+      "schoolGrade": 5,
+      "strokeCount": 6,
+      "radical": 31
+    },
+    {
+      "character": "営",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 42
+    },
+    {
+      "character": "永",
+      "schoolGrade": 5,
+      "strokeCount": 5,
+      "radical": 85
+    },
+    {
+      "character": "衛",
+      "schoolGrade": 5,
+      "strokeCount": 16,
+      "radical": 144
+    },
+    {
+      "character": "液",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 85
+    },
+    {
+      "character": "益",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 108
+    },
+    {
+      "character": "演",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 85
+    },
+    {
+      "character": "往",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 60
+    },
+    {
+      "character": "応",
+      "schoolGrade": 5,
+      "strokeCount": 7,
+      "radical": 61
+    },
+    {
+      "character": "仮",
+      "schoolGrade": 5,
+      "strokeCount": 6,
+      "radical": 9
+    },
+    {
+      "character": "価",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 9
+    },
+    {
+      "character": "可",
+      "schoolGrade": 5,
+      "strokeCount": 5,
+      "radical": 30
+    },
+    {
+      "character": "河",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 85
+    },
+    {
+      "character": "過",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 162
+    },
+    {
+      "character": "解",
+      "schoolGrade": 5,
+      "strokeCount": 13,
+      "radical": 148
+    },
+    {
+      "character": "快",
+      "schoolGrade": 5,
+      "strokeCount": 7,
+      "radical": 61
+    },
+    {
+      "character": "格",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 75
+    },
+    {
+      "character": "確",
+      "schoolGrade": 5,
+      "strokeCount": 15,
+      "radical": 112
+    },
+    {
+      "character": "額",
+      "schoolGrade": 5,
+      "strokeCount": 18,
+      "radical": 181
+    },
+    {
+      "character": "刊",
+      "schoolGrade": 5,
+      "strokeCount": 5,
+      "radical": 18
+    },
+    {
+      "character": "幹",
+      "schoolGrade": 5,
+      "strokeCount": 13,
+      "radical": 51
+    },
+    {
+      "character": "慣",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 61
+    },
+    {
+      "character": "眼",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 109
+    },
+    {
+      "character": "喜",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 30
+    },
+    {
+      "character": "基",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 32
+    },
+    {
+      "character": "寄",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 40
+    },
+    {
+      "character": "紀",
+      "schoolGrade": 5,
+      "strokeCount": 9,
+      "radical": 120
+    },
+    {
+      "character": "規",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 147
+    },
+    {
+      "character": "技",
+      "schoolGrade": 5,
+      "strokeCount": 7,
+      "radical": 64
+    },
+    {
+      "character": "義",
+      "schoolGrade": 5,
+      "strokeCount": 13,
+      "radical": 123
+    },
+    {
+      "character": "逆",
+      "schoolGrade": 5,
+      "strokeCount": 9,
+      "radical": 162
+    },
+    {
+      "character": "久",
+      "schoolGrade": 5,
+      "strokeCount": 3,
+      "radical": 4
+    },
+    {
+      "character": "救",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 66
+    },
+    {
+      "character": "旧",
+      "schoolGrade": 5,
+      "strokeCount": 5,
+      "radical": 72
+    },
+    {
+      "character": "居",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 44
+    },
+    {
+      "character": "許",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 149
+    },
+    {
+      "character": "境",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 32
+    },
+    {
+      "character": "興",
+      "schoolGrade": 5,
+      "strokeCount": 16,
+      "radical": 134
+    },
+    {
+      "character": "均",
+      "schoolGrade": 5,
+      "strokeCount": 7,
+      "radical": 32
+    },
+    {
+      "character": "禁",
+      "schoolGrade": 5,
+      "strokeCount": 13,
+      "radical": 113
+    },
+    {
+      "character": "句",
+      "schoolGrade": 5,
+      "strokeCount": 5,
+      "radical": 30
+    },
+    {
+      "character": "型",
+      "schoolGrade": 5,
+      "strokeCount": 9,
+      "radical": 32
+    },
+    {
+      "character": "経",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 120
+    },
+    {
+      "character": "潔",
+      "schoolGrade": 5,
+      "strokeCount": 15,
+      "radical": 85
+    },
+    {
+      "character": "件",
+      "schoolGrade": 5,
+      "strokeCount": 6,
+      "radical": 9
+    },
+    {
+      "character": "検",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 75
+    },
+    {
+      "character": "険",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 170
+    },
+    {
+      "character": "減",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 85
+    },
+    {
+      "character": "現",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 96
+    },
+    {
+      "character": "限",
+      "schoolGrade": 5,
+      "strokeCount": 9,
+      "radical": 170
+    },
+    {
+      "character": "個",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 9
+    },
+    {
+      "character": "故",
+      "schoolGrade": 5,
+      "strokeCount": 9,
+      "radical": 66
+    },
+    {
+      "character": "護",
+      "schoolGrade": 5,
+      "strokeCount": 20,
+      "radical": 149
+    },
+    {
+      "character": "効",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 19
+    },
+    {
+      "character": "厚",
+      "schoolGrade": 5,
+      "strokeCount": 9,
+      "radical": 27
+    },
+    {
+      "character": "構",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 75
+    },
+    {
+      "character": "耕",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 127
+    },
+    {
+      "character": "航",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 137
+    },
+    {
+      "character": "講",
+      "schoolGrade": 5,
+      "strokeCount": 17,
+      "radical": 149
+    },
+    {
+      "character": "鉱",
+      "schoolGrade": 5,
+      "strokeCount": 13,
+      "radical": 167
+    },
+    {
+      "character": "告",
+      "schoolGrade": 5,
+      "strokeCount": 7,
+      "radical": 30
+    },
+    {
+      "character": "混",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 85
+    },
+    {
+      "character": "査",
+      "schoolGrade": 5,
+      "strokeCount": 9,
+      "radical": 75
+    },
+    {
+      "character": "再",
+      "schoolGrade": 5,
+      "strokeCount": 6,
+      "radical": 1
+    },
+    {
+      "character": "妻",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 38
+    },
+    {
+      "character": "採",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 64
+    },
+    {
+      "character": "災",
+      "schoolGrade": 5,
+      "strokeCount": 7,
+      "radical": 86
+    },
+    {
+      "character": "際",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 170
+    },
+    {
+      "character": "在",
+      "schoolGrade": 5,
+      "strokeCount": 6,
+      "radical": 32
+    },
+    {
+      "character": "罪",
+      "schoolGrade": 5,
+      "strokeCount": 13,
+      "radical": 122
+    },
+    {
+      "character": "財",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 154
+    },
+    {
+      "character": "桜",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 75
+    },
+    {
+      "character": "殺",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 79
+    },
+    {
+      "character": "雑",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 172
+    },
+    {
+      "character": "賛",
+      "schoolGrade": 5,
+      "strokeCount": 15,
+      "radical": 154
+    },
+    {
+      "character": "酸",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 164
+    },
+    {
+      "character": "史",
+      "schoolGrade": 5,
+      "strokeCount": 5,
+      "radical": 30
+    },
+    {
+      "character": "士",
+      "schoolGrade": 5,
+      "strokeCount": 3,
+      "radical": 33
+    },
+    {
+      "character": "師",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 50
+    },
+    {
+      "character": "志",
+      "schoolGrade": 5,
+      "strokeCount": 7,
+      "radical": 61
+    },
+    {
+      "character": "支",
+      "schoolGrade": 5,
+      "strokeCount": 4,
+      "radical": 65
+    },
+    {
+      "character": "枝",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 75
+    },
+    {
+      "character": "資",
+      "schoolGrade": 5,
+      "strokeCount": 13,
+      "radical": 154
+    },
+    {
+      "character": "飼",
+      "schoolGrade": 5,
+      "strokeCount": 13,
+      "radical": 184
+    },
+    {
+      "character": "似",
+      "schoolGrade": 5,
+      "strokeCount": 7,
+      "radical": 9
+    },
+    {
+      "character": "示",
+      "schoolGrade": 5,
+      "strokeCount": 5,
+      "radical": 113
+    },
+    {
+      "character": "識",
+      "schoolGrade": 5,
+      "strokeCount": 19,
+      "radical": 149
+    },
+    {
+      "character": "質",
+      "schoolGrade": 5,
+      "strokeCount": 15,
+      "radical": 154
+    },
+    {
+      "character": "舎",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 9
+    },
+    {
+      "character": "謝",
+      "schoolGrade": 5,
+      "strokeCount": 17,
+      "radical": 149
+    },
+    {
+      "character": "授",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 64
+    },
+    {
+      "character": "修",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 9
+    },
+    {
+      "character": "術",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 144
+    },
+    {
+      "character": "述",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 162
+    },
+    {
+      "character": "準",
+      "schoolGrade": 5,
+      "strokeCount": 13,
+      "radical": 85
+    },
+    {
+      "character": "序",
+      "schoolGrade": 5,
+      "strokeCount": 7,
+      "radical": 53
+    },
+    {
+      "character": "招",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 64
+    },
+    {
+      "character": "証",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 149
+    },
+    {
+      "character": "象",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 152
+    },
+    {
+      "character": "賞",
+      "schoolGrade": 5,
+      "strokeCount": 15,
+      "radical": 154
+    },
+    {
+      "character": "常",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 50
+    },
+    {
+      "character": "情",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 61
+    },
+    {
+      "character": "条",
+      "schoolGrade": 5,
+      "strokeCount": 7,
+      "radical": 75
+    },
+    {
+      "character": "状",
+      "schoolGrade": 5,
+      "strokeCount": 7,
+      "radical": 94
+    },
+    {
+      "character": "織",
+      "schoolGrade": 5,
+      "strokeCount": 18,
+      "radical": 120
+    },
+    {
+      "character": "職",
+      "schoolGrade": 5,
+      "strokeCount": 18,
+      "radical": 128
+    },
+    {
+      "character": "制",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 18
+    },
+    {
+      "character": "勢",
+      "schoolGrade": 5,
+      "strokeCount": 13,
+      "radical": 19
+    },
+    {
+      "character": "性",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 61
+    },
+    {
+      "character": "政",
+      "schoolGrade": 5,
+      "strokeCount": 9,
+      "radical": 66
+    },
+    {
+      "character": "精",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 119
+    },
+    {
+      "character": "製",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 145
+    },
+    {
+      "character": "税",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 115
+    },
+    {
+      "character": "績",
+      "schoolGrade": 5,
+      "strokeCount": 17,
+      "radical": 120
+    },
+    {
+      "character": "責",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 154
+    },
+    {
+      "character": "接",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 64
+    },
+    {
+      "character": "設",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 149
+    },
+    {
+      "character": "絶",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 120
+    },
+    {
+      "character": "祖",
+      "schoolGrade": 5,
+      "strokeCount": 9,
+      "radical": 113
+    },
+    {
+      "character": "素",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 120
+    },
+    {
+      "character": "総",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 120
+    },
+    {
+      "character": "像",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 9
+    },
+    {
+      "character": "増",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 32
+    },
+    {
+      "character": "造",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 162
+    },
+    {
+      "character": "則",
+      "schoolGrade": 5,
+      "strokeCount": 9,
+      "radical": 18
+    },
+    {
+      "character": "測",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 85
+    },
+    {
+      "character": "属",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 44
+    },
+    {
+      "character": "損",
+      "schoolGrade": 5,
+      "strokeCount": 13,
+      "radical": 64
+    },
+    {
+      "character": "態",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 61
+    },
+    {
+      "character": "貸",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 154
+    },
+    {
+      "character": "団",
+      "schoolGrade": 5,
+      "strokeCount": 6,
+      "radical": 31
+    },
+    {
+      "character": "断",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 69
+    },
+    {
+      "character": "築",
+      "schoolGrade": 5,
+      "strokeCount": 16,
+      "radical": 118
+    },
+    {
+      "character": "貯",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 154
+    },
+    {
+      "character": "張",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 57
+    },
+    {
+      "character": "停",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 9
+    },
+    {
+      "character": "提",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 64
+    },
+    {
+      "character": "程",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 115
+    },
+    {
+      "character": "適",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 162
+    },
+    {
+      "character": "統",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 120
+    },
+    {
+      "character": "堂",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 32
+    },
+    {
+      "character": "導",
+      "schoolGrade": 5,
+      "strokeCount": 15,
+      "radical": 41
+    },
+    {
+      "character": "銅",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 167
+    },
+    {
+      "character": "得",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 60
+    },
+    {
+      "character": "毒",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 80
+    },
+    {
+      "character": "独",
+      "schoolGrade": 5,
+      "strokeCount": 9,
+      "radical": 94
+    },
+    {
+      "character": "任",
+      "schoolGrade": 5,
+      "strokeCount": 6,
+      "radical": 9
+    },
+    {
+      "character": "燃",
+      "schoolGrade": 5,
+      "strokeCount": 16,
+      "radical": 86
+    },
+    {
+      "character": "能",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 130
+    },
+    {
+      "character": "破",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 112
+    },
+    {
+      "character": "判",
+      "schoolGrade": 5,
+      "strokeCount": 7,
+      "radical": 18
+    },
+    {
+      "character": "版",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 91
+    },
+    {
+      "character": "犯",
+      "schoolGrade": 5,
+      "strokeCount": 5,
+      "radical": 94
+    },
+    {
+      "character": "比",
+      "schoolGrade": 5,
+      "strokeCount": 4,
+      "radical": 81
+    },
+    {
+      "character": "肥",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 130
+    },
+    {
+      "character": "費",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 154
+    },
+    {
+      "character": "非",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 175
+    },
+    {
+      "character": "備",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 9
+    },
+    {
+      "character": "評",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 149
+    },
+    {
+      "character": "貧",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 154
+    },
+    {
+      "character": "婦",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 38
+    },
+    {
+      "character": "布",
+      "schoolGrade": 5,
+      "strokeCount": 5,
+      "radical": 50
+    },
+    {
+      "character": "武",
+      "schoolGrade": 5,
+      "strokeCount": 8,
+      "radical": 77
+    },
+    {
+      "character": "復",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 60
+    },
+    {
+      "character": "複",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 145
+    },
+    {
+      "character": "仏",
+      "schoolGrade": 5,
+      "strokeCount": 4,
+      "radical": 9
+    },
+    {
+      "character": "粉",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 119
+    },
+    {
+      "character": "編",
+      "schoolGrade": 5,
+      "strokeCount": 15,
+      "radical": 120
+    },
+    {
+      "character": "弁",
+      "schoolGrade": 5,
+      "strokeCount": 5,
+      "radical": 55
+    },
+    {
+      "character": "保",
+      "schoolGrade": 5,
+      "strokeCount": 9,
+      "radical": 9
+    },
+    {
+      "character": "墓",
+      "schoolGrade": 5,
+      "strokeCount": 13,
+      "radical": 32
+    },
+    {
+      "character": "報",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 32
+    },
+    {
+      "character": "豊",
+      "schoolGrade": 5,
+      "strokeCount": 13,
+      "radical": 151
+    },
+    {
+      "character": "暴",
+      "schoolGrade": 5,
+      "strokeCount": 15,
+      "radical": 72
+    },
+    {
+      "character": "貿",
+      "schoolGrade": 5,
+      "strokeCount": 12,
+      "radical": 154
+    },
+    {
+      "character": "防",
+      "schoolGrade": 5,
+      "strokeCount": 7,
+      "radical": 170
+    },
+    {
+      "character": "脈",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 130
+    },
+    {
+      "character": "務",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 19
+    },
+    {
+      "character": "夢",
+      "schoolGrade": 5,
+      "strokeCount": 13,
+      "radical": 36
+    },
+    {
+      "character": "迷",
+      "schoolGrade": 5,
+      "strokeCount": 9,
+      "radical": 162
+    },
+    {
+      "character": "綿",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 120
+    },
+    {
+      "character": "輸",
+      "schoolGrade": 5,
+      "strokeCount": 16,
+      "radical": 159
+    },
+    {
+      "character": "余",
+      "schoolGrade": 5,
+      "strokeCount": 7,
+      "radical": 9
+    },
+    {
+      "character": "容",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 40
+    },
+    {
+      "character": "率",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 95
+    },
+    {
+      "character": "略",
+      "schoolGrade": 5,
+      "strokeCount": 11,
+      "radical": 102
+    },
+    {
+      "character": "留",
+      "schoolGrade": 5,
+      "strokeCount": 10,
+      "radical": 102
+    },
+    {
+      "character": "領",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 181
+    },
+    {
+      "character": "歴",
+      "schoolGrade": 5,
+      "strokeCount": 14,
+      "radical": 77
+    },
+    {
+      "character": "異",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 102
+    },
+    {
+      "character": "胃",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 130
+    },
+    {
+      "character": "遺",
+      "schoolGrade": 6,
+      "strokeCount": 15,
+      "radical": 162
+    },
+    {
+      "character": "域",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 32
+    },
+    {
+      "character": "宇",
+      "schoolGrade": 6,
+      "strokeCount": 6,
+      "radical": 40
+    },
+    {
+      "character": "映",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 72
+    },
+    {
+      "character": "延",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 54
+    },
+    {
+      "character": "沿",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 85
+    },
+    {
+      "character": "恩",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 61
+    },
+    {
+      "character": "我",
+      "schoolGrade": 6,
+      "strokeCount": 7,
+      "radical": 62
+    },
+    {
+      "character": "灰",
+      "schoolGrade": 6,
+      "strokeCount": 6,
+      "radical": 86
+    },
+    {
+      "character": "拡",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 64
+    },
+    {
+      "character": "閣",
+      "schoolGrade": 6,
+      "strokeCount": 14,
+      "radical": 169
+    },
+    {
+      "character": "革",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 177
+    },
+    {
+      "character": "割",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 18
+    },
+    {
+      "character": "株",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 75
+    },
+    {
+      "character": "巻",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 49
+    },
+    {
+      "character": "干",
+      "schoolGrade": 6,
+      "strokeCount": 3,
+      "radical": 51
+    },
+    {
+      "character": "看",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 109
+    },
+    {
+      "character": "簡",
+      "schoolGrade": 6,
+      "strokeCount": 18,
+      "radical": 118
+    },
+    {
+      "character": "危",
+      "schoolGrade": 6,
+      "strokeCount": 6,
+      "radical": 26
+    },
+    {
+      "character": "揮",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 64
+    },
+    {
+      "character": "机",
+      "schoolGrade": 6,
+      "strokeCount": 6,
+      "radical": 75
+    },
+    {
+      "character": "貴",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 154
+    },
+    {
+      "character": "疑",
+      "schoolGrade": 6,
+      "strokeCount": 14,
+      "radical": 21
+    },
+    {
+      "character": "吸",
+      "schoolGrade": 6,
+      "strokeCount": 6,
+      "radical": 30
+    },
+    {
+      "character": "供",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 9
+    },
+    {
+      "character": "胸",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 130
+    },
+    {
+      "character": "郷",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 163
+    },
+    {
+      "character": "勤",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 19
+    },
+    {
+      "character": "筋",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 118
+    },
+    {
+      "character": "敬",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 66
+    },
+    {
+      "character": "系",
+      "schoolGrade": 6,
+      "strokeCount": 7,
+      "radical": 120
+    },
+    {
+      "character": "警",
+      "schoolGrade": 6,
+      "strokeCount": 19,
+      "radical": 149
+    },
+    {
+      "character": "劇",
+      "schoolGrade": 6,
+      "strokeCount": 15,
+      "radical": 18
+    },
+    {
+      "character": "激",
+      "schoolGrade": 6,
+      "strokeCount": 16,
+      "radical": 85
+    },
+    {
+      "character": "穴",
+      "schoolGrade": 6,
+      "strokeCount": 5,
+      "radical": 116
+    },
+    {
+      "character": "券",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 18
+    },
+    {
+      "character": "憲",
+      "schoolGrade": 6,
+      "strokeCount": 16,
+      "radical": 61
+    },
+    {
+      "character": "権",
+      "schoolGrade": 6,
+      "strokeCount": 15,
+      "radical": 75
+    },
+    {
+      "character": "絹",
+      "schoolGrade": 6,
+      "strokeCount": 13,
+      "radical": 120
+    },
+    {
+      "character": "厳",
+      "schoolGrade": 6,
+      "strokeCount": 17,
+      "radical": 42
+    },
+    {
+      "character": "源",
+      "schoolGrade": 6,
+      "strokeCount": 13,
+      "radical": 85
+    },
+    {
+      "character": "呼",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 30
+    },
+    {
+      "character": "己",
+      "schoolGrade": 6,
+      "strokeCount": 3,
+      "radical": 49
+    },
+    {
+      "character": "誤",
+      "schoolGrade": 6,
+      "strokeCount": 14,
+      "radical": 149
+    },
+    {
+      "character": "后",
+      "schoolGrade": 6,
+      "strokeCount": 6,
+      "radical": 30
+    },
+    {
+      "character": "孝",
+      "schoolGrade": 6,
+      "strokeCount": 7,
+      "radical": 39
+    },
+    {
+      "character": "皇",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 106
+    },
+    {
+      "character": "紅",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 120
+    },
+    {
+      "character": "鋼",
+      "schoolGrade": 6,
+      "strokeCount": 16,
+      "radical": 167
+    },
+    {
+      "character": "降",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 170
+    },
+    {
+      "character": "刻",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 18
+    },
+    {
+      "character": "穀",
+      "schoolGrade": 6,
+      "strokeCount": 14,
+      "radical": 115
+    },
+    {
+      "character": "骨",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 188
+    },
+    {
+      "character": "困",
+      "schoolGrade": 6,
+      "strokeCount": 7,
+      "radical": 31
+    },
+    {
+      "character": "砂",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 112
+    },
+    {
+      "character": "座",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 53
+    },
+    {
+      "character": "済",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 85
+    },
+    {
+      "character": "裁",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 145
+    },
+    {
+      "character": "策",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 118
+    },
+    {
+      "character": "冊",
+      "schoolGrade": 6,
+      "strokeCount": 5,
+      "radical": 13
+    },
+    {
+      "character": "蚕",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 142
+    },
+    {
+      "character": "姿",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 38
+    },
+    {
+      "character": "私",
+      "schoolGrade": 6,
+      "strokeCount": 7,
+      "radical": 115
+    },
+    {
+      "character": "至",
+      "schoolGrade": 6,
+      "strokeCount": 6,
+      "radical": 133
+    },
+    {
+      "character": "視",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 147
+    },
+    {
+      "character": "詞",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 149
+    },
+    {
+      "character": "誌",
+      "schoolGrade": 6,
+      "strokeCount": 14,
+      "radical": 149
+    },
+    {
+      "character": "磁",
+      "schoolGrade": 6,
+      "strokeCount": 14,
+      "radical": 112
+    },
+    {
+      "character": "射",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 41
+    },
+    {
+      "character": "捨",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 64
+    },
+    {
+      "character": "尺",
+      "schoolGrade": 6,
+      "strokeCount": 4,
+      "radical": 44
+    },
+    {
+      "character": "若",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 140
+    },
+    {
+      "character": "樹",
+      "schoolGrade": 6,
+      "strokeCount": 16,
+      "radical": 75
+    },
+    {
+      "character": "収",
+      "schoolGrade": 6,
+      "strokeCount": 4,
+      "radical": 29
+    },
+    {
+      "character": "宗",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 40
+    },
+    {
+      "character": "就",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 43
+    },
+    {
+      "character": "衆",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 143
+    },
+    {
+      "character": "従",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 60
+    },
+    {
+      "character": "縦",
+      "schoolGrade": 6,
+      "strokeCount": 16,
+      "radical": 120
+    },
+    {
+      "character": "縮",
+      "schoolGrade": 6,
+      "strokeCount": 17,
+      "radical": 120
+    },
+    {
+      "character": "熟",
+      "schoolGrade": 6,
+      "strokeCount": 15,
+      "radical": 86
+    },
+    {
+      "character": "純",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 120
+    },
+    {
+      "character": "処",
+      "schoolGrade": 6,
+      "strokeCount": 5,
+      "radical": 34
+    },
+    {
+      "character": "署",
+      "schoolGrade": 6,
+      "strokeCount": 13,
+      "radical": 122
+    },
+    {
+      "character": "諸",
+      "schoolGrade": 6,
+      "strokeCount": 15,
+      "radical": 149
+    },
+    {
+      "character": "除",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 170
+    },
+    {
+      "character": "傷",
+      "schoolGrade": 6,
+      "strokeCount": 13,
+      "radical": 9
+    },
+    {
+      "character": "将",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 41
+    },
+    {
+      "character": "承",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 64
+    },
+    {
+      "character": "障",
+      "schoolGrade": 6,
+      "strokeCount": 14,
+      "radical": 170
+    },
+    {
+      "character": "蒸",
+      "schoolGrade": 6,
+      "strokeCount": 13,
+      "radical": 140
+    },
+    {
+      "character": "針",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 167
+    },
+    {
+      "character": "仁",
+      "schoolGrade": 6,
+      "strokeCount": 4,
+      "radical": 9
+    },
+    {
+      "character": "垂",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 32
+    },
+    {
+      "character": "推",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 64
+    },
+    {
+      "character": "寸",
+      "schoolGrade": 6,
+      "strokeCount": 3,
+      "radical": 41
+    },
+    {
+      "character": "盛",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 108
+    },
+    {
+      "character": "聖",
+      "schoolGrade": 6,
+      "strokeCount": 13,
+      "radical": 128
+    },
+    {
+      "character": "誠",
+      "schoolGrade": 6,
+      "strokeCount": 13,
+      "radical": 149
+    },
+    {
+      "character": "舌",
+      "schoolGrade": 6,
+      "strokeCount": 6,
+      "radical": 135
+    },
+    {
+      "character": "宣",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 40
+    },
+    {
+      "character": "専",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 41
+    },
+    {
+      "character": "泉",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 85
+    },
+    {
+      "character": "洗",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 85
+    },
+    {
+      "character": "染",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 75
+    },
+    {
+      "character": "銭",
+      "schoolGrade": 6,
+      "strokeCount": 14,
+      "radical": 167
+    },
+    {
+      "character": "善",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 30
+    },
+    {
+      "character": "創",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 18
+    },
+    {
+      "character": "奏",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 37
+    },
+    {
+      "character": "層",
+      "schoolGrade": 6,
+      "strokeCount": 14,
+      "radical": 44
+    },
+    {
+      "character": "操",
+      "schoolGrade": 6,
+      "strokeCount": 16,
+      "radical": 64
+    },
+    {
+      "character": "窓",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 116
+    },
+    {
+      "character": "装",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 145
+    },
+    {
+      "character": "臓",
+      "schoolGrade": 6,
+      "strokeCount": 19,
+      "radical": 130
+    },
+    {
+      "character": "蔵",
+      "schoolGrade": 6,
+      "strokeCount": 15,
+      "radical": 140
+    },
+    {
+      "character": "存",
+      "schoolGrade": 6,
+      "strokeCount": 6,
+      "radical": 39
+    },
+    {
+      "character": "尊",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 41
+    },
+    {
+      "character": "退",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 162
+    },
+    {
+      "character": "宅",
+      "schoolGrade": 6,
+      "strokeCount": 6,
+      "radical": 40
+    },
+    {
+      "character": "担",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 64
+    },
+    {
+      "character": "探",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 64
+    },
+    {
+      "character": "誕",
+      "schoolGrade": 6,
+      "strokeCount": 15,
+      "radical": 149
+    },
+    {
+      "character": "暖",
+      "schoolGrade": 6,
+      "strokeCount": 13,
+      "radical": 72
+    },
+    {
+      "character": "段",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 79
+    },
+    {
+      "character": "値",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 9
+    },
+    {
+      "character": "宙",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 40
+    },
+    {
+      "character": "忠",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 61
+    },
+    {
+      "character": "著",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 140
+    },
+    {
+      "character": "庁",
+      "schoolGrade": 6,
+      "strokeCount": 5,
+      "radical": 53
+    },
+    {
+      "character": "潮",
+      "schoolGrade": 6,
+      "strokeCount": 15,
+      "radical": 85
+    },
+    {
+      "character": "腸",
+      "schoolGrade": 6,
+      "strokeCount": 13,
+      "radical": 130
+    },
+    {
+      "character": "頂",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 181
+    },
+    {
+      "character": "賃",
+      "schoolGrade": 6,
+      "strokeCount": 13,
+      "radical": 154
+    },
+    {
+      "character": "痛",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 104
+    },
+    {
+      "character": "敵",
+      "schoolGrade": 6,
+      "strokeCount": 15,
+      "radical": 66
+    },
+    {
+      "character": "展",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 44
+    },
+    {
+      "character": "党",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 10
+    },
+    {
+      "character": "糖",
+      "schoolGrade": 6,
+      "strokeCount": 16,
+      "radical": 119
+    },
+    {
+      "character": "討",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 149
+    },
+    {
+      "character": "届",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 44
+    },
+    {
+      "character": "難",
+      "schoolGrade": 6,
+      "strokeCount": 18,
+      "radical": 172
+    },
+    {
+      "character": "乳",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 5
+    },
+    {
+      "character": "認",
+      "schoolGrade": 6,
+      "strokeCount": 14,
+      "radical": 149
+    },
+    {
+      "character": "納",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 120
+    },
+    {
+      "character": "脳",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 130
+    },
+    {
+      "character": "派",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 85
+    },
+    {
+      "character": "俳",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 9
+    },
+    {
+      "character": "拝",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 64
+    },
+    {
+      "character": "背",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 130
+    },
+    {
+      "character": "肺",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 130
+    },
+    {
+      "character": "班",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 96
+    },
+    {
+      "character": "晩",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 72
+    },
+    {
+      "character": "否",
+      "schoolGrade": 6,
+      "strokeCount": 7,
+      "radical": 30
+    },
+    {
+      "character": "批",
+      "schoolGrade": 6,
+      "strokeCount": 7,
+      "radical": 64
+    },
+    {
+      "character": "秘",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 115
+    },
+    {
+      "character": "俵",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 9
+    },
+    {
+      "character": "腹",
+      "schoolGrade": 6,
+      "strokeCount": 13,
+      "radical": 130
+    },
+    {
+      "character": "奮",
+      "schoolGrade": 6,
+      "strokeCount": 16,
+      "radical": 37
+    },
+    {
+      "character": "並",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 1
+    },
+    {
+      "character": "閉",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 169
+    },
+    {
+      "character": "陛",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 170
+    },
+    {
+      "character": "片",
+      "schoolGrade": 6,
+      "strokeCount": 4,
+      "radical": 91
+    },
+    {
+      "character": "補",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 145
+    },
+    {
+      "character": "暮",
+      "schoolGrade": 6,
+      "strokeCount": 14,
+      "radical": 72
+    },
+    {
+      "character": "宝",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 40
+    },
+    {
+      "character": "訪",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 149
+    },
+    {
+      "character": "亡",
+      "schoolGrade": 6,
+      "strokeCount": 3,
+      "radical": 8
+    },
+    {
+      "character": "忘",
+      "schoolGrade": 6,
+      "strokeCount": 7,
+      "radical": 61
+    },
+    {
+      "character": "棒",
+      "schoolGrade": 6,
+      "strokeCount": 12,
+      "radical": 75
+    },
+    {
+      "character": "枚",
+      "schoolGrade": 6,
+      "strokeCount": 8,
+      "radical": 75
+    },
+    {
+      "character": "幕",
+      "schoolGrade": 6,
+      "strokeCount": 13,
+      "radical": 50
+    },
+    {
+      "character": "密",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 40
+    },
+    {
+      "character": "盟",
+      "schoolGrade": 6,
+      "strokeCount": 13,
+      "radical": 108
+    },
+    {
+      "character": "模",
+      "schoolGrade": 6,
+      "strokeCount": 14,
+      "radical": 75
+    },
+    {
+      "character": "訳",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 149
+    },
+    {
+      "character": "優",
+      "schoolGrade": 6,
+      "strokeCount": 17,
+      "radical": 9
+    },
+    {
+      "character": "郵",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 163
+    },
+    {
+      "character": "預",
+      "schoolGrade": 6,
+      "strokeCount": 13,
+      "radical": 181
+    },
+    {
+      "character": "幼",
+      "schoolGrade": 6,
+      "strokeCount": 5,
+      "radical": 52
+    },
+    {
+      "character": "欲",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 76
+    },
+    {
+      "character": "翌",
+      "schoolGrade": 6,
+      "strokeCount": 11,
+      "radical": 124
+    },
+    {
+      "character": "乱",
+      "schoolGrade": 6,
+      "strokeCount": 7,
+      "radical": 5
+    },
+    {
+      "character": "卵",
+      "schoolGrade": 6,
+      "strokeCount": 7,
+      "radical": 26
+    },
+    {
+      "character": "覧",
+      "schoolGrade": 6,
+      "strokeCount": 17,
+      "radical": 147
+    },
+    {
+      "character": "裏",
+      "schoolGrade": 6,
+      "strokeCount": 13,
+      "radical": 145
+    },
+    {
+      "character": "律",
+      "schoolGrade": 6,
+      "strokeCount": 9,
+      "radical": 60
+    },
+    {
+      "character": "臨",
+      "schoolGrade": 6,
+      "strokeCount": 18,
+      "radical": 131
+    },
+    {
+      "character": "朗",
+      "schoolGrade": 6,
+      "strokeCount": 10,
+      "radical": 74
+    },
+    {
+      "character": "論",
+      "schoolGrade": 6,
+      "strokeCount": 15,
+      "radical": 149
+    }
+  ]
+}

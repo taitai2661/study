@@ -1,0 +1,1 @@
+{"id":"jh2-probability","grade":8,"subject":"数学","area":"D データの活用","unit":"確率","summary":"場合の数を基に確率を求めます。","objectives":["簡単な確率を求められる"],"exercise":{"type":"number","kind":"probabilityBasic","prompt":"確率を分数で答えなさい。"}}

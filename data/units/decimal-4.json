@@ -1,0 +1,1 @@
+{"id":"decimal-4","grade":4,"subject":"算数","area":"A 数と計算","unit":"小数のたし算とひき算","summary":"小数点をそろえて計算します。","objectives":["小数の加減ができる"],"exercise":{"type":"number","kind":"decimalCalc","prompt":"計算しよう。"}}

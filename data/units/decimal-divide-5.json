@@ -1,0 +1,1 @@
+{"id":"decimal-divide-5","grade":5,"subject":"算数","area":"A 数と計算","unit":"小数のわり算","summary":"小数をわる計算をします。","objectives":["小数の除法ができる"],"exercise":{"type":"number","kind":"decimalDivide","prompt":"計算しよう。"}}

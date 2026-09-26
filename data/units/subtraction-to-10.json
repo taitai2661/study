@@ -1,0 +1,1 @@
+{"id":"subtraction-to-10","grade":1,"subject":"算数","area":"A 数と計算","unit":"ひき算（10まで）","summary":"残りや違いをひき算で求めます。","objectives":["10までのひき算ができる"],"exercise":{"type":"number","kind":"subtract","min":1,"max":10,"prompt":"計算しよう。"}}

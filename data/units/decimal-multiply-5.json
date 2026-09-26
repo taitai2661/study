@@ -1,0 +1,1 @@
+{"id":"decimal-multiply-5","grade":5,"subject":"算数","area":"A 数と計算","unit":"小数のかけ算","summary":"小数をかける計算をします。","objectives":["小数の乗法ができる"],"exercise":{"type":"number","kind":"decimalMultiply","prompt":"計算しよう。"}}

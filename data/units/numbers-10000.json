@@ -1,0 +1,1 @@
+{"id":"numbers-10000","grade":3,"subject":"算数","area":"A 数と計算","unit":"10000までの数","summary":"10000までの数を位取りを使って表します。","objectives":["10000までの数を読める","位取りを理解する"],"exercise":{"type":"number","kind":"placeValue","min":1000,"max":9999,"prompt":"□に入る数は？"}}

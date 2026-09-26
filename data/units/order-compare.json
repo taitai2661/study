@@ -1,0 +1,1 @@
+{"id":"order-compare","grade":1,"subject":"算数","area":"A 数と計算","unit":"数のじゅんじょとくらべ方","summary":"数の順序と、どちらが多いかを考えます。","objectives":["数の順序が分かる","大小を比べられる"],"exercise":{"type":"choice","kind":"compare","min":1,"max":10,"prompt":"多い方をえらぼう。"}}
